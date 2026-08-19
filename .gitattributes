@@ -1,0 +1,3 @@
+# Byte-offset coverage fixtures (canonical.txt, spans.jsonl) must be
+# byte-identical on every checkout: disable all EOL conversion repo-wide.
+* -text
