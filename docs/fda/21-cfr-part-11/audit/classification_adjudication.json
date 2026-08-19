@@ -1,0 +1,53 @@
+{
+  "changed": true,
+  "updated": [
+    "S0030",
+    "S0031",
+    "S0042",
+    "S0047"
+  ],
+  "ignored": [],
+  "ambiguous_after_apply": 0,
+  "doc_id": "fda/21-cfr-part-11",
+  "ambiguous_before": 4,
+  "decisions": [
+    {
+      "span_id": "S0030",
+      "final_label": "scope_exclusion",
+      "final_embedded": [
+        "cross_reference",
+        "requirement_bearing"
+      ],
+      "reconciler_note": "The span explicitly excludes a category from the scope of the part and references another section. The act of exclusion carries requirement_bearing force, as supported by existing requirements.",
+      "rationale": "It directly states the part 'does not apply', making scope_exclusion primary. Existing requirements confirm the constructive imposition of this exclusion. It also cross-references § 101.8(d) and includes requirement_bearing as an embedded label to capture the regulatory effect."
+    },
+    {
+      "span_id": "S0031",
+      "final_label": "scope_exclusion",
+      "final_embedded": [
+        "requirement_bearing",
+        "scope_inclusion"
+      ],
+      "reconciler_note": "The initial sentence is a scope exclusion; the second is a scope inclusion for certain overlaps. Both entail requirement_bearing effects, as supported by requirements.",
+      "rationale": "The main function is to carve out (exclude) records required by part 117, with a conditional re-inclusion for those also required under other authorities. Both effects impose/condition compliance obligations, so requirement_bearing and scope_inclusion are properly embedded."
+    },
+    {
+      "span_id": "S0042",
+      "final_label": "requirement_bearing",
+      "final_embedded": [
+        "scope_inclusion"
+      ],
+      "reconciler_note": "The main operative content is a conditional permissive rule, not just a scoping statement. Modality ('may use') makes this primary. Scope_inclusion is retained as embedded for the context.",
+      "rationale": "The text grants a conditional regulatory permission, triggering compliance behavior. Existing requirements are precise and confirm a requirement_bearing label. Scope_inclusion is embedded as the clause also defines the context in which the permission applies."
+    },
+    {
+      "span_id": "S0047",
+      "final_label": "structural",
+      "final_embedded": [
+        "cross_reference"
+      ],
+      "reconciler_note": "This is a bare introductory clause to a definitions list: organizational/structural in function. A cross_reference embedded label is justified since it points downstream.",
+      "rationale": "The clause is organizational, introducing definitions, and does not itself define, require, or elaborate administrative detail. Cross_reference embedded is justified since the lead-in points readers to authoritative requirements in the following list."
+    }
+  ]
+}

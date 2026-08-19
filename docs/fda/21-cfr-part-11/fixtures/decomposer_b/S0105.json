@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Initial and periodic testing of devices, such as tokens or cards, that bear or generate identification code or\npassword information to ensure that they function properly and have not been altered in an unauthorized\nmanner",
+      "atomic_statement": "Initially and periodically test credential-bearing devices (tokens, cards) to ensure they function properly and have not been altered without authorization.",
+      "modality": "shall",
+      "subject": "persons using ID-code + password signatures",
+      "object": "credential device testing",
+      "applicability_tags": [
+        "electronic_signature",
+        "id_password",
+        "device_testing",
+        "tamper_detection"
+      ],
+      "conditions": []
+    }
+  ]
+}

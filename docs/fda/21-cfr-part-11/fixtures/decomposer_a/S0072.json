@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Revision and change control procedures to maintain an audit trail that documents time-sequenced\ndevelopment and modification of systems documentation",
+      "atomic_statement": "Establish revision and change-control procedures that maintain an audit trail of time-sequenced development and modification of systems documentation.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "systems documentation change control",
+      "applicability_tags": [
+        "closed_system",
+        "documentation",
+        "change_control",
+        "audit_trail"
+      ],
+      "conditions": []
+    }
+  ]
+}

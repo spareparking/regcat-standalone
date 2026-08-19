@@ -1,0 +1,109 @@
+{
+  "generated_from": "docs/cross_doc_relationships.jsonl",
+  "processed_part_count": 1,
+  "unresolved_part_count": 6,
+  "summary": {
+    "defer": 6
+  },
+  "items": [
+    {
+      "part": "1",
+      "title": "(unknown)",
+      "domain": "unknown",
+      "decision": "defer",
+      "rationale": "Unknown or low-context reference; defer rather than process automatically.",
+      "references": 10,
+      "citing_doc_count": 1,
+      "citing_docs": [
+        "fda/21-cfr-part-11"
+      ],
+      "examples": [
+        "§§ 1.326",
+        "part 1",
+        "part 1",
+        "part 1",
+        "part 1"
+      ]
+    },
+    {
+      "part": "101",
+      "title": "(unknown)",
+      "domain": "unknown",
+      "decision": "defer",
+      "rationale": "Unknown or low-context reference; defer rather than process automatically.",
+      "references": 2,
+      "citing_doc_count": 1,
+      "citing_docs": [
+        "fda/21-cfr-part-11"
+      ],
+      "examples": [
+        "§ 101.11(d)",
+        "§ 101.8(d)"
+      ]
+    },
+    {
+      "part": "112",
+      "title": "(unknown)",
+      "domain": "unknown",
+      "decision": "defer",
+      "rationale": "Unknown or low-context reference; defer rather than process automatically.",
+      "references": 2,
+      "citing_doc_count": 1,
+      "citing_docs": [
+        "fda/21-cfr-part-11"
+      ],
+      "examples": [
+        "part 112",
+        "part 112"
+      ]
+    },
+    {
+      "part": "117",
+      "title": "(unknown)",
+      "domain": "unknown",
+      "decision": "defer",
+      "rationale": "Unknown or low-context reference; defer rather than process automatically.",
+      "references": 2,
+      "citing_doc_count": 1,
+      "citing_docs": [
+        "fda/21-cfr-part-11"
+      ],
+      "examples": [
+        "part 117",
+        "part 117"
+      ]
+    },
+    {
+      "part": "121",
+      "title": "(unknown)",
+      "domain": "unknown",
+      "decision": "defer",
+      "rationale": "Unknown or low-context reference; defer rather than process automatically.",
+      "references": 2,
+      "citing_doc_count": 1,
+      "citing_docs": [
+        "fda/21-cfr-part-11"
+      ],
+      "examples": [
+        "part 121",
+        "part 121"
+      ]
+    },
+    {
+      "part": "507",
+      "title": "(unknown)",
+      "domain": "unknown",
+      "decision": "defer",
+      "rationale": "Unknown or low-context reference; defer rather than process automatically.",
+      "references": 2,
+      "citing_doc_count": 1,
+      "citing_docs": [
+        "fda/21-cfr-part-11"
+      ],
+      "examples": [
+        "part 507",
+        "part 507"
+      ]
+    }
+  ]
+}

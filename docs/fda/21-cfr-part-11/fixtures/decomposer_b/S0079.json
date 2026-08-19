@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "The meaning (such as review, approval, responsibility, or authorship) associated with the signature",
+      "atomic_statement": "Signed electronic records shall include the meaning associated with the signature (e.g., review, approval, responsibility, authorship).",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "signature manifestation field",
+      "applicability_tags": [
+        "signature_manifestation",
+        "signature_meaning"
+      ],
+      "conditions": []
+    }
+  ]
+}

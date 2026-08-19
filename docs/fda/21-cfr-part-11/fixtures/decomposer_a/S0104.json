@@ -1,0 +1,33 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Use of transaction safeguards to prevent unauthorized use of passwords and/or identification codes",
+      "atomic_statement": "Use transaction safeguards to prevent unauthorized use of passwords and/or identification codes.",
+      "modality": "shall",
+      "subject": "persons using ID-code + password signatures",
+      "object": "transaction safeguards",
+      "applicability_tags": [
+        "electronic_signature",
+        "id_password",
+        "anti_abuse"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "to detect and report in an immediate and urgent manner any attempts at their unauthorized use to the\nsystem security unit, and, as appropriate, to organizational management",
+      "atomic_statement": "Detect and report — immediately and urgently — any attempts at unauthorized credential use to the system security unit, and as appropriate to organizational management.",
+      "modality": "shall",
+      "subject": "persons using ID-code + password signatures",
+      "object": "unauthorized-use detection and reporting",
+      "applicability_tags": [
+        "electronic_signature",
+        "id_password",
+        "monitoring",
+        "alerting"
+      ],
+      "conditions": [
+        "as appropriate to organizational management"
+      ]
+    }
+  ]
+}

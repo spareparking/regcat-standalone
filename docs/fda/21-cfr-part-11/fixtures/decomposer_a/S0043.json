@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "The requirements of this part are met",
+      "atomic_statement": "The requirements of 21 CFR Part 11 must be met.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "compliance with Part 11",
+      "applicability_tags": [
+        "records_submitted",
+        "compliance"
+      ],
+      "conditions": []
+    }
+  ]
+}

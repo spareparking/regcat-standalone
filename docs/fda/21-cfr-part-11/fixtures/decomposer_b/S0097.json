@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Be administered and executed to ensure that attempted use of an individual's electronic signature by\nanyone other than its genuine owner requires collaboration of two or more individuals",
+      "atomic_statement": "Non-biometric electronic signatures shall be administered and executed such that any attempt by a non-owner requires collaboration of two or more individuals.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "non-biometric electronic signatures",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_biometric",
+        "collusion_resistance"
+      ],
+      "conditions": []
+    }
+  ]
+}

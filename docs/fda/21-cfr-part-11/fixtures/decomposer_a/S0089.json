@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Persons using electronic signatures shall, upon agency request, provide additional certification or\ntestimony that a specific electronic signature is the legally binding equivalent of the signer's\nhandwritten signature",
+      "atomic_statement": "On agency request, persons using electronic signatures shall provide additional certification or testimony that a specific electronic signature is the legally binding equivalent of the signer's handwritten signature.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "additional certification/testimony",
+      "applicability_tags": [
+        "electronic_signature",
+        "certification",
+        "on_request"
+      ],
+      "conditions": [
+        "upon agency request"
+      ]
+    }
+  ]
+}

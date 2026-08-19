@@ -1,0 +1,5 @@
+{
+  "label": "scope_inclusion",
+  "reason": "Analyst B reads this as an inclusion clause that scopes the equivalence treatment.",
+  "confidence": "medium"
+}

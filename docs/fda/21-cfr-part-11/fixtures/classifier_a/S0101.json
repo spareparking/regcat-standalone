@@ -1,0 +1,5 @@
+{
+  "label": "requirement_bearing",
+  "reason": "Uniqueness of ID-code/password combinations.",
+  "confidence": "high"
+}

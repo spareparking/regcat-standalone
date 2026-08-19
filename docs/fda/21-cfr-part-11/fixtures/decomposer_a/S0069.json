@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "establishment of, and adherence to, written policies that hold individuals accountable and responsible\nfor actions initiated under their electronic signatures, in order to deter record and signature falsification",
+      "atomic_statement": "Establish and adhere to written policies holding individuals accountable for actions initiated under their electronic signatures, to deter record and signature falsification.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "written policies",
+      "applicability_tags": [
+        "closed_system",
+        "accountability",
+        "policy"
+      ],
+      "conditions": []
+    }
+  ]
+}

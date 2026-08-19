@@ -1,0 +1,37 @@
+{
+  "doc_id": "fda/21-cfr-part-11",
+  "jurisdiction": "fda",
+  "short_id": "21-cfr-part-11",
+  "title": "Electronic Records; Electronic Signatures",
+  "document_type": "regulation",
+  "citation_format": "cfr",
+  "version": "2026-04-02 eCFR",
+  "effective_date": "1997-08-20",
+  "source_url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-A/part-11",
+  "language": "en",
+  "applies_to": [
+    "edc",
+    "iwrs",
+    "ecoa",
+    "ctms_general"
+  ],
+  "status": "needs_review",
+  "pdf_path": "source.pdf",
+  "pdf_sha256": "53cfc4e879e08539a455fc38df1b04bef248e027d4f5caafa7c233406a59cf1b",
+  "canonical_sha256": "69bf1669db8758aded8af20593de9e64bae3ae4290b090e8b452833af65b6c5c",
+  "ingested_at": "2026-05-10",
+  "completed_at": "2026-08-19",
+  "stats": {
+    "spans": 105,
+    "requirements": 153,
+    "relationships": 48,
+    "coverage_pct": 100.0,
+    "ambiguous_classifications": 0,
+    "ambiguous_requirements": 0,
+    "ambiguous_relationships": 0,
+    "cycles_flagged": 0
+  },
+  "depends_on": [],
+  "supersedes": null,
+  "notes": "Migrated from flat data/ layout."
+}

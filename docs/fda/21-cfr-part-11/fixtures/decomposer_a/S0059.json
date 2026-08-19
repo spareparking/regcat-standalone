@@ -1,0 +1,54 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "ensure the authenticity",
+      "atomic_statement": "Closed-system procedures and controls shall ensure the authenticity of electronic records.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "electronic records",
+      "applicability_tags": [
+        "closed_system",
+        "authenticity"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "integrity",
+      "atomic_statement": "Closed-system procedures and controls shall ensure the integrity of electronic records.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "electronic records",
+      "applicability_tags": [
+        "closed_system",
+        "integrity"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "when appropriate, the confidentiality of\nelectronic records",
+      "atomic_statement": "Closed-system procedures and controls shall ensure the confidentiality of electronic records when appropriate.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "electronic records",
+      "applicability_tags": [
+        "closed_system",
+        "confidentiality"
+      ],
+      "conditions": [
+        "when appropriate"
+      ]
+    },
+    {
+      "verbatim_quote": "ensure that the signer cannot readily repudiate the signed record as not genuine",
+      "atomic_statement": "Closed-system controls shall ensure non-repudiation of signed records.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "signed electronic records",
+      "applicability_tags": [
+        "closed_system",
+        "non_repudiation"
+      ],
+      "conditions": []
+    }
+  ]
+}

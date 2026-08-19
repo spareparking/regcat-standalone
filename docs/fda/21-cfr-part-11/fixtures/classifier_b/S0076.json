@@ -1,0 +1,5 @@
+{
+  "label": "requirement_bearing",
+  "reason": "Signed records must include signing information.",
+  "confidence": "high"
+}

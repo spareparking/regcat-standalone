@@ -1,0 +1,30 @@
+{
+  "changed": true,
+  "dropped": [
+    "E0001",
+    "E0048"
+  ],
+  "kept": [],
+  "edited": [],
+  "ignored": [],
+  "relationships_after": 46,
+  "ambiguous_after_apply": 0,
+  "doc_id": "fda/21-cfr-part-11",
+  "ambiguous_before": 2,
+  "decisions": [
+    {
+      "rel_id": "E0001",
+      "decision": "drop",
+      "type": "",
+      "evidence": "",
+      "rationale": "R00010 describes a scope exception to the equivalence of electronic signatures and does not refine the applicability scope in R00007. Instead, it specifies an exception or carve-out, which is not a true 'refines' relationship."
+    },
+    {
+      "rel_id": "E0048",
+      "decision": "drop",
+      "type": "",
+      "evidence": "",
+      "rationale": "R00010 states an exception rather than refining the general applicability stated in R00006. The relationship is more accurately characterized as an exception, but even then, it is not directly modifying the breadth of R00006, so 'refines' is not appropriate."
+    }
+  ]
+}

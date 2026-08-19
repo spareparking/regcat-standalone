@@ -1,0 +1,5 @@
+{
+  "label": "scope_exclusion",
+  "reason": "Excludes records under part 121.",
+  "confidence": "high"
+}

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Regenerable review-site output (rebuilt by the publishing scripts /
+# `regcat run`; see README quickstart)
+docs/review_site/

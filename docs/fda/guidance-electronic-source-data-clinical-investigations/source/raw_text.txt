@@ -1,0 +1,611 @@
+Guidance for Industry
+  Electronic Source Data in
+   Clinical Investigations
+
+
+
+
+
+                 U.S. Department of Health and Human Services
+                    Food and Drug Administration
+              Center for Drug Evaluation and Research (CDER)
+            Center for Biologics Evaluation and Research (CBER)
+             Center for Devices and Radiological Health (CDRH)
+
+
+                            September 2013
+                                ProceduralGuidance for Industry
+  Electronic Source Data in
+   Clinical Investigations
+
+                                Additional copies are available from:
+                        Office of Communications, Division of Drug Information
+                            Center for Drug Evaluation and Research
+                            Food and Drug Administration
+                       10903 New Hampshire Ave., Bldg. 51, rm. 2201
+                                       Silver Spring, MD 20993-0002
+                Tel: 301-796-3400; Fax: 301-847-8714; Email: druginfo@fda.hhs.gov
+     http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm
+                                               and/or
+                                Office of Communication, Outreach and
+                                    Development, HFM-40
+                          Center for Biologics Evaluation and Research
+                            Food and Drug Administration
+                       1401 Rockville Pike, Rockville, MD 20852-1448
+                                  Tel: 800-835-4709 or 301-827-1800
+                                   Email: ocod@fda.hhs.gov
+  http://www.fda.gov/BiologicsBloodVaccines/GuidanceComplianceRegulatoryInformation/default.htm
+                                               and/or
+                    Office of Communication, Education and Radiological Programs
+                    Division of Small Manufacturers Assistance, Bldg. 66, rm. 4613
+                           Center for Devices and Radiological Health
+                            Food and Drug Administration
+                  10903 New Hampshire Ave., Silver Spring, MD 20993-0002
+       http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/default.htm
+                         Email: dsmica@cdrh.fda.gov; Fax: 301.847.8149
+                      (Tel) Manufacturers Assistance: 800.638.2041 or 301.796.7100
+
+
+
+
+
+                 U.S. Department of Health and Human Services
+                    Food and Drug Administration
+              Center for Drug Evaluation and Research (CDER)
+            Center for Biologics Evaluation and Research (CBER)
+             Center for Devices and Radiological Health (CDRH)
+
+                            September 2013
+                                ProceduralGuidance for Industry
+  Electronic Source Data in
+   Clinical Investigations
+
+
+
+
+
+               For questions regarding this guidance please contact:
+
+            CDER: Jonathan.Helfgott@fda.hhs.gov / 301-796-5636 or
+                       Ronald.Fitzmartin@fda.hhs.gov / 301-796-5333
+
+            CBER: Bhanu.Kannan@fda.hhs.gov  / 301-827-6188
+
+           CDRH: Irfan.Khan@fda.hhs.gov  / 301-796-5659
+
+
+
+
+
+                 U.S. Department of Health and Human Services
+                    Food and Drug Administration
+              Center for Drug Evaluation and Research (CDER)
+            Center for Biologics Evaluation and Research (CBER)
+             Center for Devices and Radiological Health (CDRH)
+
+                            September 2013
+                                Procedural                     TABLE OF CONTENTS
+
+I.        INTRODUCTION............................................................................................................. 1
+II.   BACKGROUND ............................................................................................................... 2
+III.  ELECTRONIC SOURCE DATA.................................................................................... 3
+
+  A.  Data Capture .................................................................................................................................. 3
+
+      1. Electronic Source Data Origination ................................................................................................. 3
+      2. Source Data Capture ........................................................................................................................ 4
+      3. Data Element Identifiers .................................................................................................................. 5
+      4. Modifications and Corrections......................................................................................................... 6
+      5. Use of Electronic Prompts, Flags, and Data Quality Checks in the eCRF ...................................... 6
+  B.  Data Review.................................................................................................................................... 6
+
+      1. Clinical investigator(s)..................................................................................................................... 6
+      2. Modifications and Corrections During Clinical Investigator(s) Review of the eCRF ..................... 7
+  C.   Retention of Records by Clinical Investigator(s) ........................................................................ 7
+
+  D.  Data Access..................................................................................................................................... 8
+
+IV.   USE AND DESCRIPTION OF COMPUTERIZED SYSTEMS IN CLINICAL
+          INVESTIGATIONS.......................................................................................................... 8
+REFERENCES.............................................................................................................................. 9
+GLOSSARY OF TERMS........................................................................................................... 10                   Guidance for Industry1
+          Electronic Source Data in Clinical Investigations
+
+
+This guidance represents the Food and Drug Administration's (FDA's) current thinking on this topic.  It
+does not create or confer any rights for or on any person and does not operate to bind FDA or the public.
+You can use an alternative approach if the approach satisfies the requirements of the applicable statutes
+and regulations.  If you want to discuss an alternative approach, contact the FDA staff responsible for
+implementing this guidance.  If you cannot identify the appropriate FDA staff, call the appropriate
+number listed on the title page of this guidance.
+
+
+
+I.    INTRODUCTION
+
+This guidance provides recommendations to sponsors, Contract Research Organizations (CROs),
+clinical investigators, and others involved in the capture, review, and retention of electronic
+source data in FDA-regulated clinical investigations.2 In an effort to streamline and modernize
+clinical investigations this guidance promotes capturing source data in electronic form, and it is
+intended to assist in ensuring the reliability, quality, integrity, and traceability of data from
+electronic source to electronic regulatory submission.
+
+This guidance addresses source data in clinical investigations used to fill the predefined fields in
+an electronic case report form (eCRF), according to the protocol. The guidance discusses the
+following topics related to electronic source data:
+
+      Identification and specification of authorized source data originators
+     Creation of data element identifiers to facilitate examination of the audit trail by
+       sponsors, FDA, and other authorized parties
+     Ways to capture source data into the eCRF using either manual or electronic methods
+      Clinical investigator(s) responsibilities with respect to reviewing and retaining electronic
+       data
+     Use and description of computerized systems in clinical investigations
+
+This guidance is intended to be used together with the FDA guidance for industry on
+Computerized Systems Used in Clinical Investigations (the computerized systems guidance),3
+
+
+
+1 This guidance has been prepared by the Center for Biologics Evaluation and Research, the Center for Drug
+Evaluation and Research, and the Center for Devices and Radiological Health at the Food and Drug Administration.
+2 See definitions in 21 CFR 50.3 and 312.3.
+3
+ We update guidances periodically. To make sure you have the most recent version of a guidance, check the FDA
+Drugs guidance Web page at
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm; the Vaccines,
+Blood, and Biologics guidance Web page at
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm; or the Medical
+Devices guidance Web page at
+http://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/GuidanceDocuments/default.htm.
+
+
+
+                                       1and FDA regulation on Electronic Records and Electronic Signatures.4 Electronic structures and
+standards related to electronic submissions are out of scope for this guidance.
+
+FDA's guidance documents, including this guidance, do not establish legally enforceable
+responsibilities. Instead, guidances describe the Agency's current thinking on a topic and should
+be viewed only as recommendations, unless specific regulatory or statutory requirements are
+cited. The use of the word should in Agency guidances means that something is suggested or
+recommended, but not required.
+
+II.   BACKGROUND
+
+With the use of computerized systems for capturing clinical investigation data, it is common to
+find at least some source data recorded electronically. Common examples include, but are not
+limited to clinical data initially recorded in electronic health records maintained by healthcare
+providers and institutions, electronic laboratory reports, digital medical images from devices, and
+electronic diaries completed by study subjects.
+
+FDA regulations define an electronic record as any combination of text, graphics, data, audio,
+pictorial, or other information represented in digital form that is created, modified, maintained,
+archived, retrieved, or distributed by a computer system.5 An eCRF is an example of an
+electronic record.
+
+The eCRF is an auditable electronic record of information that generally is reported to the
+sponsor on each trial subject, according to a clinical investigation protocol. The eCRF enables
+clinical investigation data to be systematically captured, reviewed, managed, stored, analyzed,
+and reported.
+
+Source data includes all information in original records and certified copies of original records of
+clinical findings, observations, or other activities in a clinical investigation used for
+reconstructing and evaluating the investigation.6 Access to source data is critical to the review
+and inspections of clinical investigations. The review of source data by both the FDA and
+sponsor is important to ensure adequate protection of the rights, welfare, and safety of human
+subjects and the quality and integrity of the clinical investigation data. Source data should be
+attributable, legible, contemporaneous, original, and accurate (ALCOA) and must meet the
+regulatory requirements for recordkeeping.7 Capturing source data electronically and
+transmitting it to the eCRF should:
+
+
+
+4 See 21 CFR part 11.
+5 21 CFR 11.3(b)(6).
+6 In 21 CFR 312.62(b), reference is made to records that are part of case histories as “supporting data”; the ICH
+guidance for industry E6 Good Clinical Practice: Consolidated Guidance (the ICH E6 guidance) (available at
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm or
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm) uses the term
+“source data/documents.” For the purpose of this guidance, these terms describe the same information and have
+been used interchangeably.
+7 For the principal record keeping requirements for clinical investigators and sponsors developing drugs and
+biologics, see 21 CFR 312.50, 312.58, 312.62, and 312.68. For medical devices, see 21 CFR 812.140 and 812.145.
+
+
+                                       2     Eliminate unnecessary duplication of data
+     Reduce the possibility for transcription errors
+     Encourage entering source data during a subject’s visit, where appropriate
+     Eliminate transcription of source data prior to entry into an eCRF
+      Facilitate remote monitoring of data
+     Promote real-time access for data review
+      Facilitate the collection of accurate and complete data
+
+III.  ELECTRONIC SOURCE DATA
+
+Electronic source data are data initially recorded in electronic format. They can include
+information in original records and certified copies of original records of clinical findings,
+observations, or other activities captured prior to or during a clinical investigation used for
+reconstructing and evaluating the investigation.
+
+A.    Data Capture
+
+        1.     Electronic Source Data Origination
+
+A data element in an eCRF represents the smallest unit of observation captured for a subject in a
+clinical investigation. Examples of data elements include race, white blood cell count, pain
+severity measurement, or other clinical observations made and documented during a study. Each
+data element is associated with an authorized data originator. Examples of data originators
+include, but are not limited to:
+
+      Clinical investigator(s) and delegated clinical study staff
+
+      Clinical investigation subjects or their legally authorized representatives
+
+     Consulting services (e.g., a radiologist reporting on a computed tomography (CT) scan)
+
+     Medical devices (e.g., electrocardiograph (ECG) machine and other medical instruments
+       such as a blood pressure machine)
+
+      Electronic health records (EHRs)
+
+     Automated laboratory reporting systems (e.g., from central laboratories)
+
+     Other technology
+
+A list of all authorized data originators (i.e., persons, systems, devices, and instruments) should
+be developed and maintained by the sponsor and made available at each clinical site. In the case
+of electronic, patient-reported outcome measures, the subject (e.g., unique subject identifier)
+should be listed as the originator.
+
+When identification of data originators relies on identification (log-on) codes and unique
+passwords, controls must be employed to ensure the security and integrity of the authorized user
+
+
+                                       3names and passwords.8 When electronic thumbprints or other biometric identifiers are used in
+place of an electronic log-on/password, controls should be designed to ensure that they cannot be
+used by anyone other than their original owner.
+
+When a system, device, or instrument automatically populates a data element field in the eCRF, a
+data element identifier (see section III.A.3) should be created that automatically identifies the
+particular system, device, or instrument (e.g., name and type) as the originator of the data
+element. For example, if an ECG machine automatically transmits to the eCRF, a data element
+identifier should be generated that identifies the ECG machine as the originator.
+
+        2.     Source Data Capture
+
+Data can be entered into the eCRF either manually or electronically as described below.
+
+                 a.      Direct Entry of Data Into the eCRF
+
+Many data elements (e.g., blood pressure, weight, temperature, pill count, resolution of a
+symptom or sign) in a clinical investigation can be obtained at a study visit and can be entered
+directly into the eCRF by an authorized data originator. This direct entry of data can eliminate
+errors by not using a paper transcription step before entry into the eCRF.  For these data
+elements, the eCRF is the source. If a paper transcription step is used, then the paper
+documentation should be retained and made available for FDA inspection (see section III.A.2.c).
+
+When pertinent supportive information is available, FDA could request other documents during
+an inspection to corroborate a direct entry of source data elements into the eCRF by an
+authorized data originator. For example, at an initial visit, a clinical investigator might ask a
+subject about underlying illnesses, and proceed to enter the illness(es) in an eCRF. During an
+FDA inspection, a record may be requested for evidence of testing or the use of medications to
+corroborate a diagnosis.
+
+Typically, images (e.g., CT scans) are not included as data elements in an eCRF, but rather the
+clinical interpretation of the image is included as a predefined data field. When an image (e.g., a
+CT scan) is sent to a central reading center for clinical interpretation and the radiologist is
+authorized to enter data directly into the eCRF, then the radiologist’s assessment (e.g., normal)
+is the data element as predefined in the eCRF, the radiologist is the data originator and the CT
+scan is the pertinent clinical record. However, when the radiologist sends a report to a clinical
+investigator(s) who transcribes the data into the eCRF, the clinical investigator(s) is the
+originator and the source is the radiologist’s report.
+
+                b.     Automatic Transmission of Data From Devices or Instruments Directly to
+                      the eCRF
+
+When a device or instrument is the data originator (e.g., blood pressure monitoring device or
+glucometer) and data are automatically transmitted directly to the eCRF, the eCRF is the source.
+If a process is used by which the device or instrument transmits data automatically to, for
+
+
+821 CFR 11.300(a); see also the computerized systems guidance.
+
+
+                                      4example, an electronic health record system or to a service provider’s database, then the EHR or
+the service provider’s database is the source.
+
+                 c.      Transcription of Data From Paper or Electronic Sources to the eCRF
+
+Data elements can be transcribed into the eCRF from paper or electronic source documents. The
+authorized person transcribing the data from the source documents is regarded as the data
+originator. For these data elements, the electronic or paper documents from which the data
+elements are transcribed are the source. These data must be maintained by the clinical
+investigator(s) and available to an FDA inspector if requested (e.g., an original or certified copy
+of a laboratory report, instrument printout, progress notes of the physician, the study subject’s
+hospital chart(s), nurses’ notes).9
+
+                d.     Direct Transmission of Data From the Electronic Health Record to the
+               eCRF
+
+Data elements originating in an EHR can be transmitted directly into the eCRF automatically.
+Unlike a direct transmission to an eCRF from instruments or medical devices, EHRs can use
+intervening processes (e.g., algorithms for the selection of the appropriate data elements). For
+this reason the EHR is the source, and the pertinent data for the subjects in the clinical study
+should be made available for review during an FDA inspection.
+
+The ability of sponsors and/or monitors to access health records of study subjects in clinical
+information systems relevant to the clinical investigation should not differ from their ability to
+access health records recorded on paper.
+
+                 e.     Transmission of Data From Patient-Reported Outcome (PRO) Instruments
+                       to the eCRF
+
+When a PRO instrument is used by a subject to transmit data elements directly to the eCRF, the
+subject is the data originator and the eCRF is the source.  If a process is used by which the
+subject uses the instrument to transmit data to a technology service provider database, the service
+provider database is the source.
+
+        3.    Data Element Identifiers
+
+The eCRF should include the capability to record who entered or generated the data and when it
+was entered or generated. Changes to the data must not obscure the original entry, and must
+record who made the change, when, and why.10 Data element identifiers should be attached to
+each data element as it is entered or transmitted by the originator into the eCRF. Data element
+identifiers should contain the following:
+
+      Originators of the data element (including those data elements entered manually (e.g., by
+       the clinical investigator(s)) and automatically (e.g., EHR, device, or instrument))
+
+9 21 CFR 312.62(b) and 812.140(a)(3).
+10 21 CFR 11.10(e).
+
+
+                                       5     Date and time the data element was entered into the eCRF (the audit trail begins at the
+       time the data are transmitted to the eCRF)
+      Clinical investigation subjects to which the data element belongs
+
+These data element identifiers will allow sponsors, FDA, and other authorized parties to examine
+the audit trail of the eCRF data (and this audit trail should be readily available in a human
+readable form).  In addition, they provide information that will allow FDA to reconstruct and
+evaluate the clinical investigation.
+
+Although it is not necessary to automatically display the data element identifiers wherever data
+elements appear in the eCRF, the eCRF system should include a functionality that enables FDA
+to reveal or access the identifiers related to each data element.
+
+        4.     Modifications and Corrections
+
+Only a clinical investigator(s) or delegated clinical study staff should perform modifications or
+corrections to eCRF data. Modified and/or corrected data elements must have data element
+identifiers that reflect the date, time, originator and reason for the change, and must not obscure
+previous entries.11 A field should be provided allowing originators to describe the reason for the
+change (e.g., transcription error). Automatic transmissions should have traceability and controls
+via the audit trail to reflect the reason for the change.
+
+        5.    Use of Electronic Prompts, Flags, and Data Quality Checks in the eCRF
+
+We encourage the use of electronic prompts, flags, and data quality checks in the eCRF to
+minimize errors and omissions during data entry.12 Prompts can be designed to alert the data
+originator to missing data, inconsistencies, inadmissible values (e.g., date out of range), and to
+request additional data where appropriate (e.g., by prompting a clinical investigator(s) to
+complete an adverse event report form triggered by a critical laboratory result). Clinical
+investigator(s) should have the ability to enter comments about issues associated with the data.
+Sponsors should describe (e.g., in a data management plan) the electronic prompts, flags, and
+data quality checks that are designed to address, for example, data inconsistencies, missing data,
+and entries out of range.
+
+B.    Data Review
+
+        1.      Clinical investigator(s)
+
+The clinical investigator is the individual who conducts a clinical investigation (i.e., under whose
+immediate direction the test article or investigational product is administered or dispensed to, or
+used involving, a subject), or in the event of an investigation conducted by a team of individuals,
+is the responsible leader of that team.13
+
+
+
+11 21 CFR 11.10(e).
+12 See the computerized systems guidance.
+13 See definitions in 21 CFR 312.3(b) and 812.3(i).
+
+
+                                       6                 a.      Clinical Investigator(s) Review and Electronic Signature
+
+To comply with the requirement to maintain accurate case histories14 clinical investigator(s)
+should review and electronically sign the completed eCRF for each subject before the data are
+archived or submitted to FDA.15 Use of electronic signatures must comply with part 11 (21 CFR
+part 11).
+
+                b.     Data Exempt From Investigator Review
+
+Under certain circumstances, the clinical investigator(s) can be masked to specific data in the
+eCRF. For example, in a blinded study of an osmotic diuretic, the urine osmolality should not be
+revealed to the clinical investigator(s).  In some studies specific administrative data (e.g., code
+lists) might be exempt from review. Data exempt from review should be listed (e.g., in a data
+management plan).
+
+        2.     Modifications and Corrections During Clinical Investigator(s) Review of the
+          eCRF
+
+To comply with the requirement to maintain accurate case histories,16 data elements might call
+for modification or correction during clinical investigator(s) review. Either the clinical
+investigator(s) or an originator can enter the revised data element. Modified and/or corrected
+data elements must have data element identifiers that reflect the date, time, originator, and reason
+for the change, and must not obscure previous entries.17
+
+If changes are made to the eCRF after the clinical investigator(s) has already signed, the changes
+should be reviewed and electronically signed by the clinical investigator(s).
+
+C.    Retention of Records by Clinical Investigator(s)
+
+The clinical investigator(s) should retain control of the records (i.e., completed and signed eCRF
+or certified copy of the eCRF). The clinical investigator(s) should provide FDA inspectors with
+access to the records that serve as the electronic source data.
+
+When data elements are transcribed from paper sources into an eCRF, the clinical investigator(s)
+must also retain the paper sources, or certified copies, for FDA review.18 Other records
+(electronic and paper) required to corroborate data in the eCRF (see section III.A.2.a) may also
+be requested by FDA during an inspection.19
+
+
+
+
+
+14 21 CFR 312.62(b) and 812.140(a)(3).
+15 See the ICH E6 guidance; see also 21 CFR part 11, subpart C.
+16 21 CFR 312.62(b) and 812.140(a)(3).
+17 21 CFR 11.10(e).
+18 21 CFR 312.62(b) and 812.140(a)(3).
+19 Ibid.
+
+
+                                       7 1   D.    Data Access
+ 2
+ 3   Sponsors, CROs, data safety monitoring boards, and other authorized personnel can view the
+ 4    data elements in the eCRF before and after the clinical investigator(s) has electronically signed
+ 5    the completed eCRF. We encourage viewing the data to allow early detection of study-related
+ 6   problems (e.g., safety concerns, protocol deviations) and problems with conducting the study
+ 7    (e.g., missing data, data discrepancies).
+ 8
+ 9   The sponsor should have a list (e.g., in a data management plan) of the individuals with
+10    authorized access to the eCRF. Only those individuals who have documented training and
+11    authorization should have access to the eCRF data.20 Individuals with authorized access should
+12   be assigned their own identification (log-on) codes and passwords.21 Log-on access should be
+13    disabled if the individual discontinues involvement during the study.
+14
+15   IV.   USE AND DESCRIPTION OF COMPUTERIZED SYSTEMS IN CLINICAL
+16       INVESTIGATIONS
+17
+18   Adequate controls should be in place to ensure confidence in the reliability, quality, and integrity
+19    of the electronic source data. The determination of whether a computer system used in a clinical
+20    investigation is suitable for its intended purpose might not be under the control of the clinical
+21    investigator(s) or sponsor (e.g., EHRs). The performance standards for these computer systems
+22   may be regulated by other authorities22 and under the control of, for example, healthcare
+23    providers or institutions. FDA does not intend to assess the compliance of EHRs with part 11.
+24
+25   Sponsors should include (e.g., in the protocol, data management plan, or investigational plan)
+26   information about the intended use of computerized systems used during a clinical investigation,
+27   a description of the security measures employed to protect the data, and a description or diagram
+28    of the electronic data flow.
+29
+30
+31
+
+
+
+
+
+         20 See 21 CFR 11.10(i).
+         21 See 21 CFR part 11.10(d).
+         22 See 45 CFR part 170.
+
+
+                                            832                          REFERENCES
+33
+34      Code of Federal Regulations, Title 21 part 11: Electronic Records; Electronic Signatures.
+35
+36      Code of Federal Regulations, Title 21 § 50.3: Definitions.
+37
+38      Code of Federal Regulations, Title 21 part 312: Investigational New Drug Application.
+39
+40      Code of Federal Regulations, Title 21 part 812: Investigational Device Exemptions.
+41
+42      Code of Federal Regulations, Title 45 part 170: Health Information Technology Standards,
+43       Implementation Specifications, and Certification Criteria and Certification Programs for
+44       Health Information Technology.
+45
+46      Food and Drug Administration, guidance for industry on Computerized Systems Used in
+47       Clinical Investigations, available at
+48       http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.
+49       htm.
+50
+51      Food and Drug Administration, ICH guidance for industry E6 Good Clinical Practice:
+52       Consolidated Guidance, available at
+53       http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.
+54       htm.
+55
+56
+57
+
+
+
+
+
+                                            9 58
+ 59                       GLOSSARY OF TERMS
+ 60
+ 61   The following is a list of terms and definitions used in this guidance:
+ 62
+ 63   Audit Trail: A process that captures details such as additions, deletions, or alterations of
+ 64   information in an electronic record without obscuring the original record. An audit trail
+ 65    facilitates the reconstruction of the course of such details relating to the electronic record.
+ 66
+ 67    Certified Copy: A copy (paper or electronic) of original information that has been verified, as
+ 68    indicated by a dated signature, as an exact copy, having all of the same attributes and information
+ 69    as the original.
+ 70
+ 71    Clinical Investigator:  Investigator means an individual who actually conducts a clinical
+ 72    investigation (i.e., under whose immediate direction the drug is administered or dispensed to a
+ 73    subject). In the event an investigation is conducted by a team of individuals, the investigator is
+ 74    the responsible leader of the team. “Subinvestigator” includes any other individual member of
+ 75    that team (21 CFR 312.3).
+ 76
+ 77   Computerized System: Includes computer hardware, software, and associated documents (e.g.,
+ 78    user manual) that create, modify, maintain, archive, retrieve, or transmit in digital form
+ 79   information related to the conduct of a clinical investigation.
+ 80
+ 81   Data Element: A single observation associated with a subject in a clinical study. Examples
+ 82    include birth date, white blood cell count, pain severity measure, and other clinical observations
+ 83   made and documented during a study.
+ 84
+ 85   Data Element Identifier: Information associated with a data element that includes the origin of
+ 86    the data element, the date and time of entry, and the identification number of the study subject to
+ 87  whom the data element applies. Once set by the computerized system, this value should not be
+ 88    alterable in any way.
+ 89
+ 90   Data Originator: Each data element is associated with an origination type that identifies the
+ 91   source of its capture in the eCRF. This could be a person, a computer system, a device, or an
+ 92    instrument that is authorized to enter, change, or transmit data elements into the eCRF (also
+ 93   sometimes known as an author).
+ 94
+ 95   Direct Entry: Initial recording of data into an electronic record. Examples are the keying by an
+ 96    individual of original observations into a system, or automatic recording by a system of the
+ 97    output of a balance that measures a subject’s body weight.
+ 98
+ 99   Electronic Case Report Form (eCRF): An auditable electronic record of information that
+100    generally is reported to the sponsor on each trial subject, according to a clinical investigation
+101    protocol. The eCRF enables clinical investigation data to be systematically captured, reviewed,
+102   managed, stored, analyzed, and reported.
+103
+
+
+
+                                            10104   Electronic Health Record (EHR): An electronic record for healthcare providers to create,
+105    import, store, and use clinical information for patient care, according to nationally recognized
+106    interoperability standards. NOTE: The EHR has the following distinguishing features: able to
+107   be obtained from multiple sources, shareable, interoperable, accessible to authorized parties.
+108
+109   Electronic Record: Any combination of text, graphics, data, audio, pictorial, or other
+110   information representation in digital form that is created, modified, maintained, archived,
+111    retrieved, or distributed by a computer system (21 CFR 11.3(b)(6)).
+112
+113   Electronic Signature: A computer data compilation of any symbol or series of symbols
+114    executed, adopted, or authorized by an individual to be the legally binding equivalent of the
+115    individual's handwritten signature (21 CFR 11.3(b)(7)).
+116
+117   Electronic Source Data: Electronic source data are data initially recorded in electronic format.
+118
+119   Source Data: All information in original records and certified copies of original records of
+120    clinical findings, observations, or other activities (in a clinical investigation) used for the
+121    reconstruction and evaluation of the trial. Source data are contained in source documents
+122    (original records or certified copies).
+123
+124   Transmit: To transfer data within or among clinical study sites, contract research organizations,
+125    data management centers, sponsors, or to FDA; to transfer data, usually electronically.
+
+
+
+
+
+                                            11

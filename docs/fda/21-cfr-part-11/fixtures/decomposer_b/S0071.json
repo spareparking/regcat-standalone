@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Adequate controls over the distribution of, access to, and use of documentation for system\noperation and maintenance",
+      "atomic_statement": "Maintain adequate controls over the distribution, access, and use of documentation for system operation and maintenance.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "systems documentation",
+      "applicability_tags": [
+        "closed_system",
+        "documentation",
+        "access_control"
+      ],
+      "conditions": []
+    }
+  ]
+}

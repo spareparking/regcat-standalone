@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "ability to generate accurate and complete copies of records in both human readable and electronic\nform suitable for inspection, review, and copying by the agency",
+      "atomic_statement": "Provide the ability to generate accurate and complete record copies in both human-readable and electronic form, suitable for FDA inspection, review, and copying.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "record copies",
+      "applicability_tags": [
+        "closed_system",
+        "copies",
+        "fda_inspection"
+      ],
+      "conditions": []
+    }
+  ]
+}

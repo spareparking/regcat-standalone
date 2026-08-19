@@ -1,0 +1,44 @@
+[12:54:11] pipeline start  doc=fda/21-cfr-part-11  mode=mock  model=mock  pdf=source.pdf
+[12:54:11]   stage: ingest
+[12:54:12]     ingest: 6 pages, 21200 chars, sha=53cfc4e879e0
+[12:54:12]   stage ingest ok (0.17s)
+[12:54:12]   stage: boilerplate
+[12:54:12]     boilerplate: stripped 25 lines, canonical 17510 bytes, sha=69bf1669db87
+[12:54:12]   stage boilerplate ok (0.03s)
+[12:54:12]   stage: segment
+[12:54:12]     segment: using cfr segmenter
+[12:54:12]     segment: 105 spans, covered 17510/17510 bytes, gaps=0, overlaps=0
+[12:54:12]   stage segment ok (0.01s)
+[12:54:12]   stage: classify
+[12:54:12]     classify: resuming — 105 spans already classified, skipping
+[12:54:12]     classify: 105 spans total (0 this run), primary-disagree=0, ambiguous=0, embedded-only-unions=0, degenerate-skipped=0, non-req spans with embedded requirement_bearing=16
+[12:54:12]   stage classify ok (0.02s)
+[12:54:12]   stage: decompose
+[12:54:12]     decompose: resuming — 58 source spans already decomposed, skipping
+[12:54:12]     decompose: 153 requirements total (0 this run) from 58 req-bearing spans
+[12:54:12]   stage decompose ok (0.01s)
+[12:54:12]   stage: embedded_audit
+[12:54:12]     embedded_audit: 1 non-requirement spans with detected signals
+[12:54:12]     embedded_audit: promoted 0 spans, added 0 requirements, 0 false positives filtered
+[12:54:12]   stage embedded_audit ok (0.01s)
+[12:54:12]   stage: audit
+[12:54:12]     audit: coverage=100.0000%  covered=17510/17510  spans=105  reqs=153  pending_downgrades=0  passed=True
+[12:54:12]   stage audit ok (0.01s)
+[12:54:12]   stage: relate
+[12:54:12]     relate: 48 edges  (reconciled; a=47 b=47)
+[12:54:12]   stage relate ok (0.01s)
+[12:54:12]   stage: validate_rel
+[12:54:12]     validate_rel: edges=48 failures=0 warnings=0 cycles=0
+[12:54:12]   stage validate_rel ok (0.02s)
+[12:54:12]   stage: adjudicate
+[12:54:12]     adjudicate: mock mode, no ambiguity adjudication fixtures loaded
+[12:54:12]   stage adjudicate ok (0.00s)
+[12:54:12]   stage: audit
+[12:54:12]     audit: coverage=100.0000%  covered=17510/17510  spans=105  reqs=153  pending_downgrades=0  passed=True
+[12:54:12]   stage audit ok (0.02s)
+[12:54:12]   stage: validate_rel
+[12:54:12]     validate_rel: edges=48 failures=0 warnings=0 cycles=0
+[12:54:12]   stage validate_rel ok (0.00s)
+[12:54:12]   stage: render
+[12:54:12]     render: wrote docs\fda\21-cfr-part-11\catalog\catalog.md
+[12:54:12]   stage render ok (0.01s)

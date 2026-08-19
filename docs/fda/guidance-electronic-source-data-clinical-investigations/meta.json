@@ -1,0 +1,35 @@
+{
+  "doc_id": "fda/guidance-electronic-source-data-clinical-investigations",
+  "jurisdiction": "fda",
+  "short_id": "guidance-electronic-source-data-clinical-investigations",
+  "title": "Electronic Source Data in Clinical Investigations",
+  "document_type": "guidance",
+  "citation_format": "generic",
+  "version": "September 2013",
+  "effective_date": "2013-09-01",
+  "source_url": "https://www.fda.gov/files/drugs/published/Electronic-Source-Data-in-Clinical-Investigations.pdf",
+  "language": "en",
+  "applies_to": [
+    "edc",
+    "ctms_general"
+  ],
+  "status": "completed",
+  "pdf_path": "source.pdf",
+  "pdf_sha256": "9d8c2151c81996cc363fb0948608b3461008b14fd154339954d6c876caecc7e8",
+  "canonical_sha256": "6f6dcea87de6ad34a10ce0576e80f9aa5a599174d57f22bda2e70fcde9833f84",
+  "ingested_at": "2026-05-15",
+  "completed_at": "2026-05-15",
+  "stats": {
+    "spans": 99,
+    "requirements": 37,
+    "relationships": 0,
+    "coverage_pct": 100.0,
+    "ambiguous_classifications": 0,
+    "ambiguous_requirements": 0,
+    "ambiguous_relationships": 0,
+    "cycles_flagged": 0
+  },
+  "depends_on": [],
+  "supersedes": null,
+  "notes": ""
+}

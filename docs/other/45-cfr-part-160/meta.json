@@ -1,0 +1,35 @@
+{
+  "doc_id": "other/45-cfr-part-160",
+  "jurisdiction": "other",
+  "short_id": "45-cfr-part-160",
+  "title": "HIPAA Administrative Simplification: General Administrative Requirements",
+  "document_type": "regulation",
+  "citation_format": "cfr",
+  "version": "up to date as of 2026-05-14",
+  "effective_date": "2026-05-14",
+  "source_url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160",
+  "language": "en",
+  "applies_to": [
+    "edc",
+    "ctms_general"
+  ],
+  "status": "completed",
+  "pdf_path": "source.pdf",
+  "pdf_sha256": "2356c8972b6ad5cf7ee2123906a42e1a8981484f89c5fbfe5d7e947aa244710b",
+  "canonical_sha256": "4f35e20e09e5da22845461200a91ac7d128c2398ed1e146d162b9b1a22aebb5b",
+  "ingested_at": "2026-05-15",
+  "completed_at": "2026-05-22",
+  "stats": {
+    "spans": 677,
+    "requirements": 734,
+    "relationships": 0,
+    "coverage_pct": 100.0,
+    "ambiguous_classifications": 0,
+    "ambiguous_requirements": 0,
+    "ambiguous_relationships": 0,
+    "cycles_flagged": 0
+  },
+  "depends_on": [],
+  "supersedes": null,
+  "notes": "2026-06-12 WS3 remediation: fixed regcat CFR citation-path collapse (hard-coded 21/11 title/part; roman-vs-letter misclassification of single-char markers c/d/l/m/v/x). Re-segmented deterministically (byte boundaries, span ids, kinds, text all preserved); only span citations/parents corrected and atom citation_raw re-denormalized. Coverage audit re-run: 100%, 0 verbatim failures. | 2026-06-12 WS2 currentness DRIFT ACKNOWLEDGED: eCFR shows section 160.103 amended 2026-05-26 (after this copy's as-of 2026-05-14). Faithful re-ingest needs the LLM classify/decompose stages (document-wide atom-id churn) and is DEFERRED, not faked; the only changed text yields ZERO requirement atoms. version/effective_date/as-of intentionally LEFT at 2026-05-14 (truthful local vintage). Full delta + sealable evidence (official content sha256 at both dates) + remediation path: see PENDING_REINGEST.md in this doc dir."
+}

@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Electronic signatures and handwritten signatures executed to electronic records shall be linked to their respective\nelectronic records to ensure that the signatures cannot be excised, copied, or otherwise transferred to falsify an\nelectronic record by ordinary means",
+      "atomic_statement": "Electronic and handwritten signatures executed to electronic records shall be linked to their respective records so the signatures cannot be excised, copied, or transferred to falsify a record by ordinary means.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "signature-to-record link",
+      "applicability_tags": [
+        "signature_linking",
+        "non_falsifiability"
+      ],
+      "conditions": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "label": "scope_exclusion",
+  "reason": "Excludes electronic signatures under § 101.11(d).",
+  "confidence": "high"
+}

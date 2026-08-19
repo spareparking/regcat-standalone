@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Ensuring that identification code and password issuances are periodically checked, recalled, or revised\n(e.g., to cover such events as password aging)",
+      "atomic_statement": "Ensure ID-code and password issuances are periodically checked, recalled, or revised (e.g., for password aging).",
+      "modality": "shall",
+      "subject": "persons using ID-code + password signatures",
+      "object": "credential lifecycle",
+      "applicability_tags": [
+        "electronic_signature",
+        "id_password",
+        "rotation"
+      ],
+      "conditions": []
+    }
+  ]
+}

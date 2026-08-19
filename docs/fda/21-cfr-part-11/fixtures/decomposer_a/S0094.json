@@ -1,0 +1,36 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "When an individual executes a series of signings during a single, continuous period of\ncontrolled system access, the first signing shall be executed using all electronic signature\ncomponents",
+      "atomic_statement": "In a continuous controlled-access session, the first signing shall use all electronic signature components.",
+      "modality": "shall",
+      "subject": "the individual",
+      "object": "first signing in a session",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_biometric",
+        "continuous_session",
+        "first_signing"
+      ],
+      "conditions": [
+        "single continuous period of controlled system access"
+      ]
+    },
+    {
+      "verbatim_quote": "subsequent signings shall be executed using at least one electronic signature\ncomponent that is only executable by, and designed to be used only by, the individual",
+      "atomic_statement": "In a continuous controlled-access session, subsequent signings shall be executed using at least one electronic signature component executable only by, and designed only for, that individual.",
+      "modality": "shall",
+      "subject": "the individual",
+      "object": "subsequent signings in a session",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_biometric",
+        "continuous_session",
+        "subsequent_signing"
+      ],
+      "conditions": [
+        "single continuous period of controlled system access"
+      ]
+    }
+  ]
+}

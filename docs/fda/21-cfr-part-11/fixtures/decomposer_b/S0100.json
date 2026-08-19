@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Persons who use electronic signatures based upon use of identification codes in combination with passwords shall\nemploy controls to ensure their security and integrity",
+      "atomic_statement": "Persons using identification-code + password electronic signatures shall employ controls to ensure their security and integrity.",
+      "modality": "shall",
+      "subject": "persons using ID-code + password signatures",
+      "object": "security and integrity controls",
+      "applicability_tags": [
+        "electronic_signature",
+        "id_password",
+        "security",
+        "integrity"
+      ],
+      "conditions": []
+    }
+  ]
+}

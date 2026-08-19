@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Before an organization establishes, assigns, certifies, or otherwise sanctions an individual's electronic\nsignature, or any element of such electronic signature, the organization shall verify the identity of the\nindividual",
+      "atomic_statement": "Before establishing, assigning, certifying, or sanctioning an individual's electronic signature or any of its elements, the organization shall verify the individual's identity.",
+      "modality": "shall",
+      "subject": "the organization",
+      "object": "individual identity",
+      "applicability_tags": [
+        "electronic_signature",
+        "identity_verification"
+      ],
+      "conditions": []
+    }
+  ]
+}

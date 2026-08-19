@@ -1,0 +1,34 @@
+{
+  "doc_id": "ich/e9-statistical-principles",
+  "jurisdiction": "ich",
+  "short_id": "e9-statistical-principles",
+  "title": "Statistical Principles for Clinical Trials E9",
+  "document_type": "guidance",
+  "citation_format": "ich",
+  "version": "1998-02-05",
+  "effective_date": "1998-02-05",
+  "source_url": "https://database.ich.org/sites/default/files/E9_Guideline.pdf",
+  "language": "en",
+  "applies_to": [
+    "iwrs"
+  ],
+  "status": "completed",
+  "pdf_path": "source.pdf",
+  "pdf_sha256": "6dd74185bb88a6f48a4b3a154893f9d8953b2fa4784c56fedda102e45f410b96",
+  "canonical_sha256": "c4bbe3d45ce8b7e2035ddebedd43ef9f65965d1bd872d3b6cbfba4d9bede502d",
+  "ingested_at": "2026-05-28",
+  "completed_at": "2026-06-10",
+  "stats": {
+    "spans": 180,
+    "requirements": 247,
+    "relationships": 209,
+    "coverage_pct": 100.0,
+    "ambiguous_classifications": 0,
+    "ambiguous_requirements": 0,
+    "ambiguous_relationships": 0,
+    "cycles_flagged": 0
+  },
+  "depends_on": [],
+  "supersedes": null,
+  "notes": ""
+}

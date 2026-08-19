@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Electronic records that meet the requirements of this part may be used in lieu of paper records",
+      "atomic_statement": "Electronic records that meet 21 CFR Part 11 may be used in lieu of paper records.",
+      "modality": "may",
+      "subject": "regulated party",
+      "object": "electronic records",
+      "applicability_tags": [
+        "paper_equivalence",
+        "scope"
+      ],
+      "conditions": [
+        "records meet the requirements of this part",
+        "paper records are not specifically required"
+      ]
+    }
+  ]
+}

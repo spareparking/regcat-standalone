@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Computer systems (including hardware and software), controls, and attendant documentation maintained\nunder this part shall be readily available for, and subject to, FDA inspection",
+      "atomic_statement": "Computer systems, controls, and documentation maintained under Part 11 shall be readily available for and subject to FDA inspection.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "computer systems, controls, and documentation",
+      "applicability_tags": [
+        "fda_inspection",
+        "documentation",
+        "audit_readiness"
+      ],
+      "conditions": []
+    }
+  ]
+}

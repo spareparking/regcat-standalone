@@ -1,0 +1,34 @@
+{
+  "doc_id": "fda/guidance-patient-reported-outcome-measures",
+  "jurisdiction": "fda",
+  "short_id": "guidance-patient-reported-outcome-measures",
+  "title": "Patient-Reported Outcome Measures: Use in Medical Product Development to Support Labeling Claims",
+  "document_type": "guidance",
+  "citation_format": "generic",
+  "version": "December 2009 (final)",
+  "effective_date": null,
+  "source_url": "https://www.fda.gov/media/77832/download",
+  "language": "en",
+  "applies_to": [
+    "ecoa"
+  ],
+  "status": "completed",
+  "pdf_path": "source.pdf",
+  "pdf_sha256": "02ab925289dbb763496bbd7af439e69a55c03b5621968f5f1ec453d60f058663",
+  "canonical_sha256": "3c12e043eb5f03b97ba47c3825434d241561ed473c5d3ce1e4f19528e4f915ee",
+  "ingested_at": "2026-05-29",
+  "completed_at": "2026-06-10",
+  "stats": {
+    "spans": 405,
+    "requirements": 547,
+    "relationships": 500,
+    "coverage_pct": 100.0,
+    "ambiguous_classifications": 0,
+    "ambiguous_requirements": 0,
+    "ambiguous_relationships": 0,
+    "cycles_flagged": 0
+  },
+  "depends_on": [],
+  "supersedes": null,
+  "notes": ""
+}

@@ -1,0 +1,19 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "When an individual executes one or more signings not performed during a single, continuous\nperiod of controlled system access, each signing shall be executed using all of the electronic\nsignature components",
+      "atomic_statement": "For one or more signings outside a single continuous controlled-access session, each signing shall use all of the electronic signature components.",
+      "modality": "shall",
+      "subject": "the individual",
+      "object": "each signing",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_biometric",
+        "non_continuous_session"
+      ],
+      "conditions": [
+        "signings not performed during a single continuous period of controlled system access"
+      ]
+    }
+  ]
+}

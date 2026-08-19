@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Persons using electronic signatures shall, prior to or at the time of such use, certify to the agency that the\nelectronic signatures in their system, used on or after August 20, 1997, are intended to be the legally\nbinding equivalent of traditional handwritten signatures",
+      "atomic_statement": "Persons using electronic signatures shall, prior to or at the time of use, certify to FDA that their electronic signatures (used on or after Aug. 20, 1997) are intended to be the legally binding equivalent of traditional handwritten signatures.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "agency certification",
+      "applicability_tags": [
+        "electronic_signature",
+        "certification",
+        "fda_submission"
+      ],
+      "conditions": []
+    }
+  ]
+}

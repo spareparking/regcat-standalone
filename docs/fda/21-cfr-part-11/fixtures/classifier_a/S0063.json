@@ -1,0 +1,5 @@
+{
+  "label": "requirement_bearing",
+  "reason": "Limit system access to authorized individuals.",
+  "confidence": "high"
+}

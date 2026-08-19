@@ -1,0 +1,37 @@
+{
+  "doc_id": "ich/e6-r3-good-clinical-practice",
+  "jurisdiction": "ich",
+  "short_id": "e6-r3-good-clinical-practice",
+  "title": "Guideline for Good Clinical Practice E6(R3)",
+  "document_type": "guidance",
+  "citation_format": "ich",
+  "version": "2025-01-06",
+  "effective_date": "2025-01-06",
+  "source_url": "https://database.ich.org/sites/default/files/ICH_E6%28R3%29_Step4_FinalGuideline_2025_0106.pdf",
+  "language": "en",
+  "applies_to": [
+    "edc",
+    "ctms_general",
+    "safety",
+    "etmf"
+  ],
+  "status": "completed",
+  "pdf_path": "source.pdf",
+  "pdf_sha256": "e6ce19e36ce7d2e294f89ee89492b9e035178c3cca48984392bbd92eec9b002c",
+  "canonical_sha256": "208d3767cb8fa71d573bc80a4c106fce321716f8694e90e94c34d54e6a6db121",
+  "ingested_at": "2026-05-15",
+  "completed_at": "2026-05-15",
+  "stats": {
+    "spans": 348,
+    "requirements": 286,
+    "relationships": 140,
+    "coverage_pct": 100.0,
+    "ambiguous_classifications": 0,
+    "ambiguous_requirements": 0,
+    "ambiguous_relationships": 0,
+    "cycles_flagged": 0
+  },
+  "depends_on": [],
+  "supersedes": null,
+  "notes": ""
+}

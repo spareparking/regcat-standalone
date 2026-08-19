@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Use of authority checks to ensure that only authorized individuals can use the system, electronically sign a\nrecord, access the operation or computer system input or output device, alter a record, or perform the\noperation at hand",
+      "atomic_statement": "Use authority checks to ensure that only authorized individuals can use the system, sign electronically, access I/O devices, alter records, or perform the operation at hand.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "authority checks",
+      "applicability_tags": [
+        "closed_system",
+        "access_control",
+        "authorization"
+      ],
+      "conditions": []
+    }
+  ]
+}

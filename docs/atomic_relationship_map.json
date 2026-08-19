@@ -1,0 +1,3579 @@
+{
+  "nodes": [
+    {
+      "id": "fda/21-cfr-part-11:R00001",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00001",
+      "citation": "§ 11.1(b)",
+      "statement": "This part applies to electronic records that are created under any records requirements set forth in agency regulations.",
+      "modality": "unspecified",
+      "subject": "persons subject to agency records requirements",
+      "object": "electronic records that are created",
+      "tags": [
+        "scope",
+        "electronic_records",
+        "creation"
+      ],
+      "conditions": [
+        "record is in electronic form",
+        "subject to agency records requirements"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00002",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00002",
+      "citation": "§ 11.1(b)",
+      "statement": "This part applies to electronic records that are modified under any records requirements set forth in agency regulations.",
+      "modality": "unspecified",
+      "subject": "persons subject to agency records requirements",
+      "object": "electronic records that are modified",
+      "tags": [
+        "scope",
+        "electronic_records",
+        "modification"
+      ],
+      "conditions": [
+        "record is in electronic form",
+        "subject to agency records requirements"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00003",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00003",
+      "citation": "§ 11.1(b)",
+      "statement": "This part applies to electronic records that are maintained under any records requirements set forth in agency regulations.",
+      "modality": "unspecified",
+      "subject": "persons subject to agency records requirements",
+      "object": "electronic records that are maintained",
+      "tags": [
+        "scope",
+        "electronic_records",
+        "maintenance"
+      ],
+      "conditions": [
+        "record is in electronic form",
+        "subject to agency records requirements"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00004",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00004",
+      "citation": "§ 11.1(b)",
+      "statement": "This part applies to electronic records that are archived under any records requirements set forth in agency regulations.",
+      "modality": "unspecified",
+      "subject": "persons subject to agency records requirements",
+      "object": "electronic records that are archived",
+      "tags": [
+        "scope",
+        "electronic_records",
+        "archival",
+        "retention"
+      ],
+      "conditions": [
+        "record is in electronic form",
+        "subject to agency records requirements"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00005",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00005",
+      "citation": "§ 11.1(b)",
+      "statement": "This part applies to electronic records that are retrieved under any records requirements set forth in agency regulations.",
+      "modality": "unspecified",
+      "subject": "persons subject to agency records requirements",
+      "object": "electronic records that are retrieved",
+      "tags": [
+        "scope",
+        "electronic_records",
+        "retrieval"
+      ],
+      "conditions": [
+        "record is in electronic form",
+        "subject to agency records requirements"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00006",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00006",
+      "citation": "§ 11.1(b)",
+      "statement": "This part applies to electronic records that are transmitted under any records requirements set forth in agency regulations.",
+      "modality": "unspecified",
+      "subject": "persons subject to agency records requirements",
+      "object": "electronic records that are transmitted",
+      "tags": [
+        "scope",
+        "electronic_records",
+        "transmission"
+      ],
+      "conditions": [
+        "record is in electronic form",
+        "subject to agency records requirements"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00007",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00007",
+      "citation": "§ 11.1(b)",
+      "statement": "This part applies to electronic records submitted to the agency under requirements of the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act, even when such records are not specifically identified in agency regulations.",
+      "modality": "unspecified",
+      "subject": "persons submitting electronic records to the agency",
+      "object": "electronic records submitted to the agency",
+      "tags": [
+        "scope",
+        "electronic_records",
+        "submission",
+        "fdc_act",
+        "phs_act"
+      ],
+      "conditions": [
+        "record is submitted to the agency under FD&C Act or PHS Act requirements"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00008",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00008",
+      "citation": "§ 11.1(b)",
+      "statement": "This part does not apply to paper records that are or have been transmitted by electronic means.",
+      "modality": "unspecified",
+      "subject": "persons handling paper records",
+      "object": "paper records transmitted by electronic means",
+      "tags": [
+        "scope_exclusion",
+        "paper_records",
+        "transmission"
+      ],
+      "conditions": [
+        "record is a paper record",
+        "transmitted by electronic means"
+      ],
+      "source_span_id": "S0024"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00009",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00009",
+      "citation": "§ 11.1(c)",
+      "statement": "The agency shall consider electronic signatures and their associated electronic records that meet the requirements of Part 11 to be equivalent to full handwritten signatures, initials, and other general signings required by agency regulations.",
+      "modality": "shall",
+      "subject": "the agency (FDA)",
+      "object": "electronic signatures and associated electronic records",
+      "tags": [
+        "electronic_signature",
+        "electronic_records",
+        "equivalence"
+      ],
+      "conditions": [
+        "electronic signatures and associated electronic records meet the requirements of Part 11"
+      ],
+      "source_span_id": "S0025"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00010",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00010",
+      "citation": "§ 11.1(c)",
+      "statement": "The equivalence of electronic signatures to handwritten signatures shall not apply where specifically excepted by regulation(s) effective on or after August 20, 1997.",
+      "modality": "shall",
+      "subject": "the agency (FDA)",
+      "object": "exceptions to electronic signature equivalence",
+      "tags": [
+        "electronic_signature",
+        "exception",
+        "scope"
+      ],
+      "conditions": [
+        "regulation(s) effective on or after August 20, 1997 specifically except the equivalence"
+      ],
+      "source_span_id": "S0025"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00011",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00011",
+      "citation": "§ 11.1(d)",
+      "statement": "Electronic records that meet the requirements of Part 11 may be used in lieu of paper records in accordance with § 11.2.",
+      "modality": "may",
+      "subject": "persons subject to Part 11",
+      "object": "electronic records used in lieu of paper records",
+      "tags": [
+        "electronic_records",
+        "paper_records",
+        "paper_substitution",
+        "scope"
+      ],
+      "conditions": [
+        "electronic records meet the requirements of Part 11",
+        "use is in accordance with § 11.2"
+      ],
+      "source_span_id": "S0026"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00012",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00012",
+      "citation": "§ 11.1(d)",
+      "statement": "Electronic records may not be substituted for paper records when paper records are specifically required.",
+      "modality": "shall",
+      "subject": "persons subject to Part 11",
+      "object": "paper records that are specifically required",
+      "tags": [
+        "electronic_records",
+        "paper_records",
+        "paper_substitution",
+        "exception"
+      ],
+      "conditions": [
+        "paper records are specifically required"
+      ],
+      "source_span_id": "S0026"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00013",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00013",
+      "citation": "§ 11.1(e)",
+      "statement": "Computer systems (including hardware and software) maintained under this part shall be readily available for FDA inspection.",
+      "modality": "shall",
+      "subject": "persons maintaining computer systems under this part",
+      "object": "computer systems (hardware and software)",
+      "tags": [
+        "fda_inspection",
+        "availability",
+        "computer_systems"
+      ],
+      "conditions": [
+        "maintained under this part"
+      ],
+      "source_span_id": "S0027"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00014",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00014",
+      "citation": "§ 11.1(e)",
+      "statement": "Computer systems (including hardware and software) maintained under this part shall be subject to FDA inspection.",
+      "modality": "shall",
+      "subject": "persons maintaining computer systems under this part",
+      "object": "computer systems (hardware and software)",
+      "tags": [
+        "fda_inspection",
+        "computer_systems"
+      ],
+      "conditions": [
+        "maintained under this part"
+      ],
+      "source_span_id": "S0027"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00015",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00015",
+      "citation": "§ 11.1(e)",
+      "statement": "Controls maintained under this part shall be readily available for FDA inspection.",
+      "modality": "shall",
+      "subject": "persons maintaining controls under this part",
+      "object": "controls",
+      "tags": [
+        "fda_inspection",
+        "availability",
+        "controls"
+      ],
+      "conditions": [
+        "maintained under this part"
+      ],
+      "source_span_id": "S0027"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00016",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00016",
+      "citation": "§ 11.1(e)",
+      "statement": "Controls maintained under this part shall be subject to FDA inspection.",
+      "modality": "shall",
+      "subject": "persons maintaining controls under this part",
+      "object": "controls",
+      "tags": [
+        "fda_inspection",
+        "controls"
+      ],
+      "conditions": [
+        "maintained under this part"
+      ],
+      "source_span_id": "S0027"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00017",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00017",
+      "citation": "§ 11.1(e)",
+      "statement": "Attendant documentation maintained under this part shall be readily available for FDA inspection.",
+      "modality": "shall",
+      "subject": "persons maintaining attendant documentation under this part",
+      "object": "attendant documentation",
+      "tags": [
+        "fda_inspection",
+        "availability",
+        "documentation",
+        "retention"
+      ],
+      "conditions": [
+        "maintained under this part"
+      ],
+      "source_span_id": "S0027"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00018",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00018",
+      "citation": "§ 11.1(e)",
+      "statement": "Attendant documentation maintained under this part shall be subject to FDA inspection.",
+      "modality": "shall",
+      "subject": "persons maintaining attendant documentation under this part",
+      "object": "attendant documentation",
+      "tags": [
+        "fda_inspection",
+        "documentation",
+        "retention"
+      ],
+      "conditions": [
+        "maintained under this part"
+      ],
+      "source_span_id": "S0027"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00019",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00019",
+      "citation": "§ 11.1(f)",
+      "statement": "Part 11 does not apply to records required to be established or maintained by §§ 1.326 through 1.368 of this chapter.",
+      "modality": "unspecified",
+      "subject": "records required by §§ 1.326 through 1.368",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope",
+        "exemption",
+        "recordkeeping"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by §§ 1.326 through 1.368"
+      ],
+      "source_span_id": "S0028"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00020",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00020",
+      "citation": "§ 11.1(f)",
+      "statement": "Records that satisfy part 1, subpart J but are also required under other applicable statutory provisions or regulations remain subject to Part 11.",
+      "modality": "shall",
+      "subject": "records that satisfy part 1 subpart J and are also required under other applicable statutes or regulations",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope",
+        "applicability",
+        "recordkeeping",
+        "dual_requirement"
+      ],
+      "conditions": [
+        "record satisfies part 1, subpart J",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0028"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00021",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00021",
+      "citation": "§ 11.1(j)",
+      "statement": "Part 11 does not apply to records that are required to be established or maintained by part 507 of this chapter.",
+      "modality": "unspecified",
+      "subject": "regulated entities subject to part 507",
+      "object": "records required by part 507",
+      "tags": [
+        "scope",
+        "exemption",
+        "part_507"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by part 507"
+      ],
+      "source_span_id": "S0032"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00022",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00022",
+      "citation": "§ 11.1(j)",
+      "statement": "Records that satisfy part 507 but are also required under other applicable statutory provisions or regulations remain subject to part 11.",
+      "modality": "unspecified",
+      "subject": "regulated entities maintaining records under part 507 and other applicable statutes or regulations",
+      "object": "records dually required under part 507 and other provisions",
+      "tags": [
+        "scope",
+        "applicability",
+        "part_507",
+        "dual_requirement"
+      ],
+      "conditions": [
+        "record satisfies part 507 requirements",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0032"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00023",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00023",
+      "citation": "§ 11.1(k)",
+      "statement": "Part 11 does not apply to records required to be established or maintained by part 112 of this chapter.",
+      "modality": "unspecified",
+      "subject": "records under part 112",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope_exclusion",
+        "part_112"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by part 112"
+      ],
+      "source_span_id": "S0033"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00024",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00024",
+      "citation": "§ 11.1(k)",
+      "statement": "Records that satisfy part 112 but are also required under other applicable statutory provisions or regulations remain subject to Part 11.",
+      "modality": "unspecified",
+      "subject": "records satisfying part 112 and other applicable statutes/regulations",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope_inclusion",
+        "part_112",
+        "dual_applicability"
+      ],
+      "conditions": [
+        "record satisfies part 112",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0033"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00025",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00025",
+      "citation": "§ 11.1(l)",
+      "statement": "Part 11 does not apply to records required to be established or maintained by subpart L of part 1 of this chapter.",
+      "modality": "unspecified",
+      "subject": "records required to be established or maintained by subpart L of part 1",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope_exclusion",
+        "subpart_l"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by subpart L of part 1"
+      ],
+      "source_span_id": "S0034"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00026",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00026",
+      "citation": "§ 11.1(l)",
+      "statement": "Records that satisfy subpart L of part 1 but are also required under other applicable statutory provisions or regulations remain subject to Part 11.",
+      "modality": "unspecified",
+      "subject": "records satisfying subpart L of part 1 that are also required under other statutes or regulations",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope_inclusion",
+        "subpart_l",
+        "dual_applicability"
+      ],
+      "conditions": [
+        "record satisfies subpart L of part 1",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0034"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00027",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00027",
+      "citation": "§ 11.1(m)",
+      "statement": "Part 11 does not apply to records required to be established or maintained by subpart M of part 1 of this chapter.",
+      "modality": "unspecified",
+      "subject": "records required by subpart M of part 1",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope_exclusion",
+        "subpart_m"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by subpart M of part 1"
+      ],
+      "source_span_id": "S0035"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00028",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00028",
+      "citation": "§ 11.1(m)",
+      "statement": "Records that satisfy subpart M of part 1 but are also required under other applicable statutory provisions or regulations remain subject to Part 11.",
+      "modality": "unspecified",
+      "subject": "records satisfying subpart M that are also required under other statutes or regulations",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope_inclusion",
+        "subpart_m",
+        "dual_requirement"
+      ],
+      "conditions": [
+        "record satisfies subpart M of part 1",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0035"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00029",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00029",
+      "citation": "§ 11.1(n)",
+      "statement": "Part 11 does not apply to records required to be established or maintained by subpart O of part 1 of this chapter.",
+      "modality": "unspecified",
+      "subject": "records required by subpart O of part 1",
+      "object": "applicability of part 11",
+      "tags": [
+        "scope",
+        "exclusion",
+        "subpart_o"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by subpart O of part 1"
+      ],
+      "source_span_id": "S0036"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00030",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00030",
+      "citation": "§ 11.1(n)",
+      "statement": "Records that satisfy subpart O of part 1 but are also required under other applicable statutory provisions or regulations remain subject to Part 11.",
+      "modality": "unspecified",
+      "subject": "persons maintaining records that satisfy subpart O and are also required under other statutory provisions or regulations",
+      "object": "applicability of part 11 to dual-required records",
+      "tags": [
+        "scope",
+        "applicability",
+        "subpart_o",
+        "dual_requirement"
+      ],
+      "conditions": [
+        "record satisfies subpart O of part 1",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0036"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00031",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00031",
+      "citation": "§ 11.1(o)",
+      "statement": "Part 11 does not apply to records required to be established or maintained by part 121 of this chapter.",
+      "modality": "unspecified",
+      "subject": "records under part 121",
+      "object": "applicability of part 11",
+      "tags": [
+        "scope_exclusion",
+        "part_121"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by part 121"
+      ],
+      "source_span_id": "S0037"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00032",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00032",
+      "citation": "§ 11.1(o)",
+      "statement": "Records that satisfy part 121 requirements but are also required under other applicable statutory provisions or regulations remain subject to part 11.",
+      "modality": "unspecified",
+      "subject": "records satisfying part 121 and other applicable statutes or regulations",
+      "object": "applicability of part 11",
+      "tags": [
+        "scope_inclusion",
+        "part_121",
+        "dual_applicability"
+      ],
+      "conditions": [
+        "record satisfies part 121 requirements",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0037"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00033",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00033",
+      "citation": "§ 11.1(p)",
+      "statement": "Part 11 does not apply to records required to be established or maintained by subpart R of part 1 of this chapter.",
+      "modality": "unspecified",
+      "subject": "records required by subpart R of part 1",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope",
+        "exclusion",
+        "applicability",
+        "subpart_r"
+      ],
+      "conditions": [
+        "record is required to be established or maintained by subpart R of part 1"
+      ],
+      "source_span_id": "S0038"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00034",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00034",
+      "citation": "§ 11.1(p)",
+      "statement": "Records that satisfy subpart R of part 1 but are also required under other applicable statutory provisions or regulations remain subject to Part 11.",
+      "modality": "unspecified",
+      "subject": "records satisfying subpart R that are also required under other statutes or regulations",
+      "object": "applicability of Part 11",
+      "tags": [
+        "scope",
+        "applicability",
+        "subpart_r",
+        "dual_requirement"
+      ],
+      "conditions": [
+        "record satisfies subpart R of part 1",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0038"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00035",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00035",
+      "citation": "§ 11.2(a)",
+      "statement": "Persons may use electronic records in lieu of paper records for records that are required to be maintained but not submitted to the agency.",
+      "modality": "may",
+      "subject": "persons",
+      "object": "electronic records in lieu of paper records",
+      "tags": [
+        "electronic_records",
+        "recordkeeping",
+        "not_submitted"
+      ],
+      "conditions": [
+        "records are required to be maintained but not submitted to the agency",
+        "the requirements of this part are met"
+      ],
+      "source_span_id": "S0041"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00036",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00036",
+      "citation": "§ 11.2(a)",
+      "statement": "Persons may use electronic signatures in lieu of traditional signatures, in whole or in part, for records required to be maintained but not submitted to the agency.",
+      "modality": "may",
+      "subject": "persons",
+      "object": "electronic signatures in lieu of traditional signatures",
+      "tags": [
+        "electronic_signature",
+        "recordkeeping",
+        "not_submitted"
+      ],
+      "conditions": [
+        "records are required to be maintained but not submitted to the agency",
+        "the requirements of this part are met"
+      ],
+      "source_span_id": "S0041"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00037",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00037",
+      "citation": "§ 11.2(a)",
+      "statement": "Any use of electronic records or electronic signatures in lieu of paper records or traditional signatures must comply with the requirements of Part 11.",
+      "modality": "must",
+      "subject": "persons using electronic records or electronic signatures",
+      "object": "compliance with Part 11 requirements",
+      "tags": [
+        "electronic_records",
+        "electronic_signature",
+        "part_11"
+      ],
+      "conditions": [
+        "electronic records or electronic signatures are used in lieu of paper records or traditional signatures"
+      ],
+      "source_span_id": "S0041"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00038",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00038",
+      "citation": "§ 11.2(b)",
+      "statement": "Persons may use electronic records in lieu of paper records for records submitted to the agency, provided the stated conditions are met.",
+      "modality": "may",
+      "subject": "persons submitting records to the agency",
+      "object": "electronic records used in lieu of paper records",
+      "tags": [
+        "electronic_records",
+        "agency_submission"
+      ],
+      "conditions": [
+        "records are submitted to the agency",
+        "conditions in § 11.2(b) are satisfied"
+      ],
+      "source_span_id": "S0042"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00039",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00039",
+      "citation": "§ 11.2(b)",
+      "statement": "Persons may use electronic signatures in lieu of traditional signatures, in whole or in part, for records submitted to the agency, provided the stated conditions are met.",
+      "modality": "may",
+      "subject": "persons submitting records to the agency",
+      "object": "electronic signatures used in lieu of traditional signatures",
+      "tags": [
+        "electronic_signature",
+        "agency_submission"
+      ],
+      "conditions": [
+        "records are submitted to the agency",
+        "conditions in § 11.2(b) are satisfied"
+      ],
+      "source_span_id": "S0042"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00040",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00040",
+      "citation": "§ 11.2(b)(1)",
+      "statement": "The requirements of part 11 shall be met as a condition for the use referenced in the parent provision.",
+      "modality": "shall",
+      "subject": "persons relying on this provision",
+      "object": "requirements of part 11",
+      "tags": [
+        "compliance",
+        "part_11"
+      ],
+      "conditions": [
+        "applies to the use of electronic records/signatures in lieu of paper as scoped by § 11.2(b)"
+      ],
+      "source_span_id": "S0043"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00041",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00041",
+      "citation": "§ 11.2(b)(2)",
+      "statement": "Documents or parts of documents submitted electronically must have been identified in public docket No. 92S-0251 as a type of submission the agency accepts in electronic form.",
+      "modality": "must",
+      "subject": "persons submitting electronic records to the agency",
+      "object": "documents identified in public docket No. 92S-0251",
+      "tags": [
+        "electronic_submission",
+        "public_docket",
+        "agency_acceptance"
+      ],
+      "conditions": [
+        "submission is in electronic form"
+      ],
+      "source_span_id": "S0044"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00042",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00042",
+      "citation": "§ 11.2(b)(2)",
+      "statement": "Electronic documents submitted to agency receiving units not specified in the public docket shall not be considered official.",
+      "modality": "shall",
+      "subject": "agency",
+      "object": "electronic documents submitted to unlisted receiving units",
+      "tags": [
+        "electronic_submission",
+        "public_docket",
+        "official_status"
+      ],
+      "conditions": [
+        "receiving unit is not specified in the public docket",
+        "document is submitted in electronic form"
+      ],
+      "source_span_id": "S0044"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00043",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00043",
+      "citation": "§ 11.2(b)(2)",
+      "statement": "Paper forms of documents submitted to unlisted receiving units must accompany any electronic records and shall be considered the official version.",
+      "modality": "must",
+      "subject": "persons submitting documents to agency receiving units not specified in the public docket",
+      "object": "paper forms of documents",
+      "tags": [
+        "electronic_submission",
+        "paper_records",
+        "official_status"
+      ],
+      "conditions": [
+        "receiving unit is not specified in the public docket",
+        "electronic records are submitted"
+      ],
+      "source_span_id": "S0044"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00044",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00044",
+      "citation": "§ 11.2(b)(2)",
+      "statement": "Persons are expected to consult with the intended agency receiving unit for details on how and whether to proceed with the electronic submission.",
+      "modality": "should",
+      "subject": "persons intending to make electronic submissions",
+      "object": "consultation with the intended agency receiving unit",
+      "tags": [
+        "electronic_submission",
+        "agency_consultation",
+        "transmission",
+        "file_format"
+      ],
+      "conditions": [
+        "prior to electronic submission"
+      ],
+      "source_span_id": "S0044"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00045",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00045",
+      "citation": "§ 11.3(b)(8)",
+      "statement": "The act of signing with a writing or marking instrument such as a pen or stylus must be preserved.",
+      "modality": "must",
+      "subject": "system capturing handwritten signatures",
+      "object": "act of signing with a writing or marking instrument",
+      "tags": [
+        "handwritten_signature",
+        "signing_act",
+        "preservation"
+      ],
+      "conditions": [],
+      "source_span_id": "S0055"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00046",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00046",
+      "citation": "§ 11.3(b)(8)",
+      "statement": "The scripted name or legal mark may be applied to devices other than paper that capture the name or mark.",
+      "modality": "may",
+      "subject": "individual providing a handwritten signature",
+      "object": "device used to capture scripted name or legal mark",
+      "tags": [
+        "handwritten_signature",
+        "capture_device",
+        "non_paper_medium"
+      ],
+      "conditions": [],
+      "source_span_id": "S0055"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00047",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00047",
+      "citation": "§ 11.10 chapeau",
+      "statement": "Persons who use closed systems to create, modify, maintain, or transmit electronic records shall employ procedures and controls designed to ensure the authenticity of electronic records.",
+      "modality": "shall",
+      "subject": "persons using closed systems to create, modify, maintain, or transmit electronic records",
+      "object": "procedures and controls ensuring authenticity of electronic records",
+      "tags": [
+        "closed_system",
+        "electronic_records",
+        "authenticity"
+      ],
+      "conditions": [],
+      "source_span_id": "S0059"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00048",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00048",
+      "citation": "§ 11.10 chapeau",
+      "statement": "Persons who use closed systems to create, modify, maintain, or transmit electronic records shall employ procedures and controls designed to ensure the integrity of electronic records.",
+      "modality": "shall",
+      "subject": "persons using closed systems to create, modify, maintain, or transmit electronic records",
+      "object": "procedures and controls ensuring integrity of electronic records",
+      "tags": [
+        "closed_system",
+        "electronic_records",
+        "integrity"
+      ],
+      "conditions": [],
+      "source_span_id": "S0059"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00049",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00049",
+      "citation": "§ 11.10 chapeau",
+      "statement": "Persons who use closed systems shall employ procedures and controls designed to ensure the confidentiality of electronic records when appropriate.",
+      "modality": "shall",
+      "subject": "persons using closed systems to create, modify, maintain, or transmit electronic records",
+      "object": "procedures and controls ensuring confidentiality of electronic records",
+      "tags": [
+        "closed_system",
+        "electronic_records",
+        "confidentiality"
+      ],
+      "conditions": [
+        "when appropriate"
+      ],
+      "source_span_id": "S0059"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00050",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00050",
+      "citation": "§ 11.10 chapeau",
+      "statement": "Persons who use closed systems shall employ procedures and controls designed to ensure that the signer cannot readily repudiate the signed record as not genuine.",
+      "modality": "shall",
+      "subject": "persons using closed systems to create, modify, maintain, or transmit electronic records",
+      "object": "procedures and controls ensuring non-repudiation of signed records",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "non_repudiation",
+        "signature_record_linking"
+      ],
+      "conditions": [],
+      "source_span_id": "S0059"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00051",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00051",
+      "citation": "§ 11.10 chapeau",
+      "statement": "The procedures and controls employed by persons using closed systems shall include the items enumerated in the subsequent provisions of § 11.10.",
+      "modality": "shall",
+      "subject": "persons using closed systems to create, modify, maintain, or transmit electronic records",
+      "object": "required components of procedures and controls",
+      "tags": [
+        "closed_system",
+        "procedural"
+      ],
+      "conditions": [],
+      "source_span_id": "S0059"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00052",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00052",
+      "citation": "§ 11.10(a)",
+      "statement": "Persons using closed systems shall validate systems to ensure accuracy.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "system validation for accuracy",
+      "tags": [
+        "closed_system",
+        "validation",
+        "accuracy"
+      ],
+      "conditions": [],
+      "source_span_id": "S0060"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00053",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00053",
+      "citation": "§ 11.10(a)",
+      "statement": "Persons using closed systems shall validate systems to ensure reliability.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "system validation for reliability",
+      "tags": [
+        "closed_system",
+        "validation",
+        "reliability"
+      ],
+      "conditions": [],
+      "source_span_id": "S0060"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00054",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00054",
+      "citation": "§ 11.10(a)",
+      "statement": "Persons using closed systems shall validate systems to ensure consistent intended performance.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "system validation for consistent intended performance",
+      "tags": [
+        "closed_system",
+        "validation",
+        "performance"
+      ],
+      "conditions": [],
+      "source_span_id": "S0060"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00055",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00055",
+      "citation": "§ 11.10(a)",
+      "statement": "Persons using closed systems shall validate systems to ensure the ability to discern invalid or altered records.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "system validation for detection of invalid or altered records",
+      "tags": [
+        "closed_system",
+        "validation",
+        "record_integrity",
+        "audit_trail"
+      ],
+      "conditions": [],
+      "source_span_id": "S0060"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00056",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00056",
+      "citation": "§ 11.10(b)",
+      "statement": "Persons using closed systems shall have the ability to generate accurate and complete copies of records in human readable form suitable for inspection, review, and copying by the agency.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "human readable copies of records",
+      "tags": [
+        "closed_system",
+        "record_copying",
+        "human_readable"
+      ],
+      "conditions": [
+        "copies must be suitable for agency inspection, review, and copying"
+      ],
+      "source_span_id": "S0061"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00057",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00057",
+      "citation": "§ 11.10(b)",
+      "statement": "Persons using closed systems shall have the ability to generate accurate and complete copies of records in electronic form suitable for inspection, review, and copying by the agency.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "electronic copies of records",
+      "tags": [
+        "closed_system",
+        "record_copying",
+        "electronic_records"
+      ],
+      "conditions": [
+        "copies must be suitable for agency inspection, review, and copying"
+      ],
+      "source_span_id": "S0061"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00058",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00058",
+      "citation": "§ 11.10(b)",
+      "statement": "Generated copies of records shall be accurate.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "accuracy of record copies",
+      "tags": [
+        "closed_system",
+        "record_copying",
+        "accuracy"
+      ],
+      "conditions": [],
+      "source_span_id": "S0061"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00059",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00059",
+      "citation": "§ 11.10(b)",
+      "statement": "Generated copies of records shall be complete.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "completeness of record copies",
+      "tags": [
+        "closed_system",
+        "record_copying",
+        "completeness"
+      ],
+      "conditions": [],
+      "source_span_id": "S0061"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00060",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00060",
+      "citation": "§ 11.10(b)",
+      "statement": "Persons should contact the agency if they have any questions regarding the agency's ability to perform review and copying of the electronic records.",
+      "modality": "should",
+      "subject": "persons using closed systems",
+      "object": "communication with the agency",
+      "tags": [
+        "closed_system",
+        "agency_contact",
+        "electronic_records"
+      ],
+      "conditions": [
+        "questions exist regarding agency's review/copying capability"
+      ],
+      "source_span_id": "S0061"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00061",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00061",
+      "citation": "§ 11.10(c)",
+      "statement": "Persons using closed systems shall protect records to enable their accurate retrieval throughout the records retention period.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "records",
+      "tags": [
+        "closed_system",
+        "retention",
+        "record_protection"
+      ],
+      "conditions": [
+        "throughout the records retention period"
+      ],
+      "source_span_id": "S0062"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00062",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00062",
+      "citation": "§ 11.10(c)",
+      "statement": "Persons using closed systems shall protect records to enable their ready retrieval throughout the records retention period.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "records",
+      "tags": [
+        "closed_system",
+        "retention",
+        "record_protection"
+      ],
+      "conditions": [
+        "throughout the records retention period"
+      ],
+      "source_span_id": "S0062"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00063",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00063",
+      "citation": "§ 11.10(d)",
+      "statement": "Persons who use closed systems shall limit system access to authorized individuals.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "system access",
+      "tags": [
+        "closed_system",
+        "access_control",
+        "identity_verification"
+      ],
+      "conditions": [],
+      "source_span_id": "S0063"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00064",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00064",
+      "citation": "§ 11.10(e)",
+      "statement": "Audit trails shall be secure.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "audit trail",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "security"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00065",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00065",
+      "citation": "§ 11.10(e)",
+      "statement": "Audit trails shall be computer-generated.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "audit trail",
+      "tags": [
+        "closed_system",
+        "audit_trail"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00066",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00066",
+      "citation": "§ 11.10(e)",
+      "statement": "Audit trails shall be time-stamped.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "audit trail",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "timestamp"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00067",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00067",
+      "citation": "§ 11.10(e)",
+      "statement": "Audit trails shall independently record the date and time of operator entries and actions.",
+      "modality": "shall",
+      "subject": "audit trail system",
+      "object": "date and time of operator entries and actions",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "independence"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00068",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00068",
+      "citation": "§ 11.10(e)",
+      "statement": "The audit trail shall capture actions that create electronic records.",
+      "modality": "shall",
+      "subject": "audit trail system",
+      "object": "record creation events",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "electronic_records"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00069",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00069",
+      "citation": "§ 11.10(e)",
+      "statement": "The audit trail shall capture actions that modify electronic records.",
+      "modality": "shall",
+      "subject": "audit trail system",
+      "object": "record modification events",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "electronic_records"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00070",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00070",
+      "citation": "§ 11.10(e)",
+      "statement": "The audit trail shall capture actions that delete electronic records.",
+      "modality": "shall",
+      "subject": "audit trail system",
+      "object": "record deletion events",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "electronic_records"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00071",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00071",
+      "citation": "§ 11.10(e)",
+      "statement": "Record changes shall not obscure previously recorded information.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "previously recorded information",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "data_integrity"
+      ],
+      "conditions": [
+        "when records are changed"
+      ],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00072",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00072",
+      "citation": "§ 11.10(e)",
+      "statement": "Audit trail documentation shall be retained for a period at least as long as that required for the subject electronic records.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "audit trail documentation",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "retention"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00073",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00073",
+      "citation": "§ 11.10(e)",
+      "statement": "Audit trail documentation shall be available for agency review.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "audit trail documentation",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "agency_access"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00074",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00074",
+      "citation": "§ 11.10(e)",
+      "statement": "Audit trail documentation shall be available for agency copying.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "audit trail documentation",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "agency_access"
+      ],
+      "conditions": [],
+      "source_span_id": "S0064"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00075",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00075",
+      "citation": "§ 11.10(f)",
+      "statement": "Persons using closed systems shall use operational system checks to enforce permitted sequencing of steps and events, as appropriate.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "operational system checks",
+      "tags": [
+        "closed_system",
+        "operational_checks",
+        "sequencing",
+        "validation"
+      ],
+      "conditions": [
+        "as appropriate"
+      ],
+      "source_span_id": "S0065"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00076",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00076",
+      "citation": "§ 11.10(g)",
+      "statement": "Persons using closed systems shall employ authority checks to ensure that only authorized individuals can use the system.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "authority checks for system use",
+      "tags": [
+        "closed_system",
+        "authority_checks",
+        "access_control"
+      ],
+      "conditions": [],
+      "source_span_id": "S0066"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00077",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00077",
+      "citation": "§ 11.10(g)",
+      "statement": "Persons using closed systems shall employ authority checks to ensure that only authorized individuals can electronically sign a record.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "authority checks for electronic signing",
+      "tags": [
+        "closed_system",
+        "authority_checks",
+        "electronic_signature",
+        "access_control"
+      ],
+      "conditions": [],
+      "source_span_id": "S0066"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00078",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00078",
+      "citation": "§ 11.10(g)",
+      "statement": "Persons using closed systems shall employ authority checks to ensure that only authorized individuals can access the operation or computer system input or output device.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "authority checks for device access",
+      "tags": [
+        "closed_system",
+        "authority_checks",
+        "access_control",
+        "device_access"
+      ],
+      "conditions": [],
+      "source_span_id": "S0066"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00079",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00079",
+      "citation": "§ 11.10(g)",
+      "statement": "Persons using closed systems shall employ authority checks to ensure that only authorized individuals can alter a record.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "authority checks for record alteration",
+      "tags": [
+        "closed_system",
+        "authority_checks",
+        "access_control",
+        "record_modification"
+      ],
+      "conditions": [],
+      "source_span_id": "S0066"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00080",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00080",
+      "citation": "§ 11.10(g)",
+      "statement": "Persons using closed systems shall employ authority checks to ensure that only authorized individuals can perform the operation at hand.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "authority checks for operation execution",
+      "tags": [
+        "closed_system",
+        "authority_checks",
+        "access_control"
+      ],
+      "conditions": [],
+      "source_span_id": "S0066"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00081",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00081",
+      "citation": "§ 11.10(h)",
+      "statement": "Persons using closed systems shall use device checks (e.g., terminal checks) to determine, as appropriate, the validity of the source of data input.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "device checks for source of data input",
+      "tags": [
+        "closed_system",
+        "device_checks",
+        "data_input",
+        "source_validation"
+      ],
+      "conditions": [
+        "as appropriate"
+      ],
+      "source_span_id": "S0067"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00082",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00082",
+      "citation": "§ 11.10(h)",
+      "statement": "Persons using closed systems shall use device checks (e.g., terminal checks) to determine, as appropriate, the validity of the source of operational instructions.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "device checks for source of operational instruction",
+      "tags": [
+        "closed_system",
+        "device_checks",
+        "operational_instruction",
+        "source_validation"
+      ],
+      "conditions": [
+        "as appropriate"
+      ],
+      "source_span_id": "S0067"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00083",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00083",
+      "citation": "§ 11.10(i)",
+      "statement": "Persons using closed systems shall determine that personnel who develop electronic record/electronic signature systems have the education, training, and experience to perform their assigned tasks.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "developer qualifications (education, training, experience)",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "training",
+        "personnel_qualification",
+        "developers"
+      ],
+      "conditions": [],
+      "source_span_id": "S0068"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00084",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00084",
+      "citation": "§ 11.10(i)",
+      "statement": "Persons using closed systems shall determine that personnel who maintain electronic record/electronic signature systems have the education, training, and experience to perform their assigned tasks.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "maintainer qualifications (education, training, experience)",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "training",
+        "personnel_qualification",
+        "maintainers"
+      ],
+      "conditions": [],
+      "source_span_id": "S0068"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00085",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00085",
+      "citation": "§ 11.10(i)",
+      "statement": "Persons using closed systems shall determine that personnel who use electronic record/electronic signature systems have the education, training, and experience to perform their assigned tasks.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "user qualifications (education, training, experience)",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "training",
+        "personnel_qualification",
+        "end_users"
+      ],
+      "conditions": [],
+      "source_span_id": "S0068"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00086",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00086",
+      "citation": "§ 11.10(i)",
+      "statement": "A determination process shall exist to verify that personnel involved with electronic record/electronic signature systems possess the requisite education, training, and experience for their assigned tasks.",
+      "modality": "shall",
+      "subject": "organization operating electronic record/electronic signature systems",
+      "object": "qualification determination process",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "training",
+        "personnel_qualification",
+        "validation"
+      ],
+      "conditions": [],
+      "source_span_id": "S0068"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00087",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00087",
+      "citation": "§ 11.10(j)",
+      "statement": "Persons using closed systems shall establish written policies that hold individuals accountable and responsible for actions initiated under their electronic signatures.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "written accountability policies",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "policy",
+        "accountability"
+      ],
+      "conditions": [
+        "to deter record and signature falsification"
+      ],
+      "source_span_id": "S0069"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00088",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00088",
+      "citation": "§ 11.10(j)",
+      "statement": "Persons using closed systems shall adhere to the written policies that hold individuals accountable and responsible for actions initiated under their electronic signatures.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "written accountability policies",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "policy",
+        "adherence"
+      ],
+      "conditions": [
+        "to deter record and signature falsification"
+      ],
+      "source_span_id": "S0069"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00089",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00089",
+      "citation": "§ 11.10(j)",
+      "statement": "The written policies shall hold individuals accountable and responsible for actions initiated under their electronic signatures.",
+      "modality": "shall",
+      "subject": "written policies",
+      "object": "individual accountability for electronic-signature actions",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "accountability",
+        "policy"
+      ],
+      "conditions": [],
+      "source_span_id": "S0069"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00090",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00090",
+      "citation": "§ 11.10(j)",
+      "statement": "The accountability policies shall be designed to deter record and signature falsification.",
+      "modality": "shall",
+      "subject": "written accountability policies",
+      "object": "deterrence of record and signature falsification",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "falsification_prevention",
+        "policy"
+      ],
+      "conditions": [],
+      "source_span_id": "S0069"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00091",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00091",
+      "citation": "§ 11.10(k)",
+      "statement": "Persons who use closed systems shall employ appropriate controls over systems documentation.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "systems documentation controls",
+      "tags": [
+        "closed_system",
+        "systems_documentation",
+        "controls"
+      ],
+      "conditions": [],
+      "source_span_id": "S0070"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00092",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00092",
+      "citation": "§ 11.10(k)(1)",
+      "statement": "Persons who use closed systems shall employ adequate controls over the distribution of documentation for system operation and maintenance.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "distribution of documentation for system operation and maintenance",
+      "tags": [
+        "closed_system",
+        "documentation_controls",
+        "systems_documentation"
+      ],
+      "conditions": [],
+      "source_span_id": "S0071"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00093",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00093",
+      "citation": "§ 11.10(k)(1)",
+      "statement": "Persons who use closed systems shall employ adequate controls over access to documentation for system operation and maintenance.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "access to documentation for system operation and maintenance",
+      "tags": [
+        "closed_system",
+        "documentation_controls",
+        "access_control",
+        "systems_documentation"
+      ],
+      "conditions": [],
+      "source_span_id": "S0071"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00094",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00094",
+      "citation": "§ 11.10(k)(1)",
+      "statement": "Persons who use closed systems shall employ adequate controls over the use of documentation for system operation and maintenance.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "use of documentation for system operation and maintenance",
+      "tags": [
+        "closed_system",
+        "documentation_controls",
+        "systems_documentation"
+      ],
+      "conditions": [],
+      "source_span_id": "S0071"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00095",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00095",
+      "citation": "§ 11.10(k)(2)",
+      "statement": "Persons who use closed systems shall employ revision and change control procedures for systems documentation.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "revision and change control procedures",
+      "tags": [
+        "closed_system",
+        "systems_documentation",
+        "change_control"
+      ],
+      "conditions": [],
+      "source_span_id": "S0072"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00096",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00096",
+      "citation": "§ 11.10(k)(2)",
+      "statement": "The revision and change control procedures shall maintain an audit trail of systems documentation development and modification.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "audit trail for systems documentation",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "systems_documentation"
+      ],
+      "conditions": [],
+      "source_span_id": "S0072"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00097",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00097",
+      "citation": "§ 11.10(k)(2)",
+      "statement": "The audit trail for systems documentation shall be time-sequenced.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "time sequencing of the audit trail",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "systems_documentation",
+        "time_sequenced"
+      ],
+      "conditions": [],
+      "source_span_id": "S0072"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00098",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00098",
+      "citation": "§ 11.10(k)(2)",
+      "statement": "The audit trail shall document the development of systems documentation.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "development records of systems documentation",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "systems_documentation"
+      ],
+      "conditions": [],
+      "source_span_id": "S0072"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00099",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00099",
+      "citation": "§ 11.10(k)(2)",
+      "statement": "The audit trail shall document modifications to systems documentation.",
+      "modality": "shall",
+      "subject": "persons using closed systems",
+      "object": "modification records of systems documentation",
+      "tags": [
+        "closed_system",
+        "audit_trail",
+        "systems_documentation",
+        "change_control"
+      ],
+      "conditions": [],
+      "source_span_id": "S0072"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00100",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00100",
+      "citation": "§ 11.30 chapeau",
+      "statement": "Persons who use open systems to create, modify, maintain, or transmit electronic records shall employ procedures and controls designed to ensure the authenticity of electronic records from the point of creation to the point of receipt.",
+      "modality": "shall",
+      "subject": "persons using open systems",
+      "object": "procedures and controls ensuring record authenticity",
+      "tags": [
+        "open_system",
+        "electronic_records",
+        "authenticity"
+      ],
+      "conditions": [
+        "from point of creation to point of receipt"
+      ],
+      "source_span_id": "S0074"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00101",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00101",
+      "citation": "§ 11.30 chapeau",
+      "statement": "Persons who use open systems shall employ procedures and controls designed to ensure the integrity of electronic records from the point of creation to the point of receipt.",
+      "modality": "shall",
+      "subject": "persons using open systems",
+      "object": "procedures and controls ensuring record integrity",
+      "tags": [
+        "open_system",
+        "electronic_records",
+        "integrity"
+      ],
+      "conditions": [
+        "from point of creation to point of receipt"
+      ],
+      "source_span_id": "S0074"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00102",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00102",
+      "citation": "§ 11.30 chapeau",
+      "statement": "Persons who use open systems shall employ procedures and controls designed to ensure the confidentiality of electronic records from the point of creation to the point of receipt, as appropriate.",
+      "modality": "shall",
+      "subject": "persons using open systems",
+      "object": "procedures and controls ensuring record confidentiality",
+      "tags": [
+        "open_system",
+        "electronic_records",
+        "confidentiality"
+      ],
+      "conditions": [
+        "as appropriate",
+        "from point of creation to point of receipt"
+      ],
+      "source_span_id": "S0074"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00103",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00103",
+      "citation": "§ 11.30 chapeau",
+      "statement": "The procedures and controls for open systems shall include those identified in § 11.10, as appropriate.",
+      "modality": "shall",
+      "subject": "persons using open systems",
+      "object": "procedures and controls from § 11.10",
+      "tags": [
+        "open_system",
+        "closed_system_controls_reference",
+        "cross_reference"
+      ],
+      "conditions": [
+        "as appropriate"
+      ],
+      "source_span_id": "S0074"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00104",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00104",
+      "citation": "§ 11.30 chapeau",
+      "statement": "The procedures and controls for open systems shall include additional measures such as document encryption, as necessary under the circumstances, to ensure record authenticity, integrity, and confidentiality.",
+      "modality": "shall",
+      "subject": "persons using open systems",
+      "object": "document encryption",
+      "tags": [
+        "open_system",
+        "encryption",
+        "authenticity",
+        "integrity",
+        "confidentiality"
+      ],
+      "conditions": [
+        "as necessary under the circumstances"
+      ],
+      "source_span_id": "S0074"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00105",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00105",
+      "citation": "§ 11.30 chapeau",
+      "statement": "The procedures and controls for open systems shall include use of appropriate digital signature standards, as necessary under the circumstances, to ensure record authenticity, integrity, and confidentiality.",
+      "modality": "shall",
+      "subject": "persons using open systems",
+      "object": "digital signature standards",
+      "tags": [
+        "open_system",
+        "digital_signature",
+        "authenticity",
+        "integrity",
+        "confidentiality"
+      ],
+      "conditions": [
+        "as necessary under the circumstances"
+      ],
+      "source_span_id": "S0074"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00106",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00106",
+      "citation": "§ 11.50(a)",
+      "statement": "Signed electronic records shall contain information associated with the signing that clearly indicates all of the specified items.",
+      "modality": "shall",
+      "subject": "signed electronic records",
+      "object": "information associated with the signing",
+      "tags": [
+        "electronic_signature",
+        "signature_record_linking",
+        "signed_record"
+      ],
+      "conditions": [
+        "record is signed electronically"
+      ],
+      "source_span_id": "S0076"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00107",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00107",
+      "citation": "§ 11.50(a)(1)",
+      "statement": "Signed electronic records shall contain the printed name of the signer.",
+      "modality": "shall",
+      "subject": "signed electronic records",
+      "object": "printed name of the signer",
+      "tags": [
+        "electronic_signature",
+        "signature_manifestation",
+        "signed_record_content"
+      ],
+      "conditions": [],
+      "source_span_id": "S0077"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00108",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00108",
+      "citation": "§ 11.50(a)(2)",
+      "statement": "Signed electronic records shall contain the date and time when the signature was executed.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "signed electronic record",
+      "tags": [
+        "electronic_signature",
+        "signature_manifestation",
+        "timestamp"
+      ],
+      "conditions": [],
+      "source_span_id": "S0078"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00109",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00109",
+      "citation": "§ 11.50(a)(3)",
+      "statement": "Signed electronic records shall contain information indicating the meaning (such as review, approval, responsibility, or authorship) associated with the signature.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures on electronic records",
+      "object": "signed electronic record",
+      "tags": [
+        "electronic_signature",
+        "signature_manifestation",
+        "signed_record_content"
+      ],
+      "conditions": [
+        "when an electronic signature is executed on an electronic record"
+      ],
+      "source_span_id": "S0079"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00110",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00110",
+      "citation": "§ 11.50(b)",
+      "statement": "The signature manifestation items identified in § 11.50(a)(1), (a)(2), and (a)(3) shall be subject to the same controls as for electronic records.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "signature manifestation items (signer name, date/time, meaning)",
+      "tags": [
+        "electronic_signature",
+        "signature_manifestation",
+        "controls",
+        "electronic_records"
+      ],
+      "conditions": [],
+      "source_span_id": "S0080"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00111",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00111",
+      "citation": "§ 11.50(b)",
+      "statement": "The signature manifestation items shall be included as part of any human readable form of the electronic record, such as electronic display or printout.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "human readable form of the electronic record",
+      "tags": [
+        "electronic_signature",
+        "signature_manifestation",
+        "human_readable",
+        "display",
+        "printout"
+      ],
+      "conditions": [
+        "when the electronic record is rendered in human readable form"
+      ],
+      "source_span_id": "S0080"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00112",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00112",
+      "citation": "§ 11.70 chapeau",
+      "statement": "Electronic signatures and handwritten signatures executed to electronic records shall be linked to their respective electronic records.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures or handwritten signatures executed to electronic records",
+      "object": "signature-to-record linkage",
+      "tags": [
+        "electronic_signature",
+        "signature_record_linking",
+        "handwritten_signature"
+      ],
+      "conditions": [],
+      "source_span_id": "S0082"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00113",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00113",
+      "citation": "§ 11.70 chapeau",
+      "statement": "The linkage shall ensure that signatures cannot be excised from their electronic records by ordinary means to falsify a record.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures or handwritten signatures executed to electronic records",
+      "object": "signature-record linkage integrity (excision prevention)",
+      "tags": [
+        "electronic_signature",
+        "signature_record_linking",
+        "falsification_prevention"
+      ],
+      "conditions": [
+        "by ordinary means"
+      ],
+      "source_span_id": "S0082"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00114",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00114",
+      "citation": "§ 11.70 chapeau",
+      "statement": "The linkage shall ensure that signatures cannot be copied from their electronic records by ordinary means to falsify a record.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures or handwritten signatures executed to electronic records",
+      "object": "signature-record linkage integrity (copying prevention)",
+      "tags": [
+        "electronic_signature",
+        "signature_record_linking",
+        "falsification_prevention"
+      ],
+      "conditions": [
+        "by ordinary means"
+      ],
+      "source_span_id": "S0082"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00115",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00115",
+      "citation": "§ 11.70 chapeau",
+      "statement": "The linkage shall ensure that signatures cannot otherwise be transferred from their electronic records by ordinary means to falsify a record.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures or handwritten signatures executed to electronic records",
+      "object": "signature-record linkage integrity (transfer prevention)",
+      "tags": [
+        "electronic_signature",
+        "signature_record_linking",
+        "falsification_prevention"
+      ],
+      "conditions": [
+        "by ordinary means"
+      ],
+      "source_span_id": "S0082"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00116",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00116",
+      "citation": "§ 11.100(a)",
+      "statement": "Each electronic signature shall be unique to one individual.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "electronic signature",
+      "tags": [
+        "electronic_signature",
+        "identity_verification",
+        "uniqueness"
+      ],
+      "conditions": [],
+      "source_span_id": "S0085"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00117",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00117",
+      "citation": "§ 11.100(a)",
+      "statement": "An electronic signature shall not be reused by anyone else.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "electronic signature",
+      "tags": [
+        "electronic_signature",
+        "reuse_prohibition"
+      ],
+      "conditions": [],
+      "source_span_id": "S0085"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00118",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00118",
+      "citation": "§ 11.100(a)",
+      "statement": "An electronic signature shall not be reassigned to anyone else.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "electronic signature",
+      "tags": [
+        "electronic_signature",
+        "reassignment_prohibition"
+      ],
+      "conditions": [],
+      "source_span_id": "S0085"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00119",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00119",
+      "citation": "§ 11.100(b)",
+      "statement": "An organization shall verify the identity of an individual before establishing, assigning, certifying, or otherwise sanctioning that individual's electronic signature or any element of such electronic signature.",
+      "modality": "shall",
+      "subject": "organization",
+      "object": "identity of the individual",
+      "tags": [
+        "electronic_signature",
+        "identity_verification"
+      ],
+      "conditions": [
+        "prior to establishing, assigning, certifying, or otherwise sanctioning an electronic signature or any element thereof"
+      ],
+      "source_span_id": "S0086"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00120",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00120",
+      "citation": "§ 11.100(c)",
+      "statement": "Persons using electronic signatures shall certify to the agency that the electronic signatures in their system are intended to be the legally binding equivalent of traditional handwritten signatures.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "certification to the agency",
+      "tags": [
+        "electronic_signature",
+        "certification",
+        "agency_submission"
+      ],
+      "conditions": [
+        "electronic signatures used on or after August 20, 1997"
+      ],
+      "source_span_id": "S0087"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00121",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00121",
+      "citation": "§ 11.100(c)",
+      "statement": "The certification to the agency shall be made prior to or at the time of using electronic signatures.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "timing of certification",
+      "tags": [
+        "electronic_signature",
+        "certification",
+        "timing"
+      ],
+      "conditions": [
+        "before or at the time of first use of electronic signatures"
+      ],
+      "source_span_id": "S0087"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00122",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00122",
+      "citation": "§ 11.100(c)",
+      "statement": "The certification shall state that the electronic signatures in the person's system are intended to be the legally binding equivalent of traditional handwritten signatures.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "content of certification (legal equivalence to handwritten signatures)",
+      "tags": [
+        "electronic_signature",
+        "certification",
+        "legal_equivalence",
+        "handwritten_signature"
+      ],
+      "conditions": [
+        "electronic signatures used on or after August 20, 1997"
+      ],
+      "source_span_id": "S0087"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00123",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00123",
+      "citation": "§ 11.100(c)(1)",
+      "statement": "The certification shall be signed with a traditional handwritten signature.",
+      "modality": "shall",
+      "subject": "persons submitting the certification",
+      "object": "certification",
+      "tags": [
+        "electronic_signature",
+        "certification",
+        "handwritten_signature"
+      ],
+      "conditions": [],
+      "source_span_id": "S0088"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00124",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00124",
+      "citation": "§ 11.100(c)(1)",
+      "statement": "The certification shall be submitted in either electronic or paper form.",
+      "modality": "shall",
+      "subject": "persons submitting the certification",
+      "object": "certification",
+      "tags": [
+        "electronic_signature",
+        "certification",
+        "submission"
+      ],
+      "conditions": [],
+      "source_span_id": "S0088"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00125",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00125",
+      "citation": "§ 11.100(c)(1)",
+      "statement": "Submitters may locate information on where to submit the certification on FDA's web page on Letters of Non-Repudiation Agreement.",
+      "modality": "may",
+      "subject": "persons submitting the certification",
+      "object": "submission location information",
+      "tags": [
+        "electronic_signature",
+        "certification",
+        "submission",
+        "informational"
+      ],
+      "conditions": [],
+      "source_span_id": "S0088"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00126",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00126",
+      "citation": "§ 11.100(c)(2)",
+      "statement": "Persons using electronic signatures shall, upon agency request, provide additional certification or testimony that a specific electronic signature is the legally binding equivalent of the signer's handwritten signature.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "additional certification or testimony of equivalence to handwritten signature",
+      "tags": [
+        "electronic_signature",
+        "certification",
+        "agency_request"
+      ],
+      "conditions": [
+        "upon agency request"
+      ],
+      "source_span_id": "S0089"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00127",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00127",
+      "citation": "§ 11.200(a)",
+      "statement": "Electronic signatures that are not based upon biometrics shall comply with the requirements that follow in this paragraph.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures not based upon biometrics",
+      "object": "electronic signature controls",
+      "tags": [
+        "electronic_signature",
+        "non_biometric"
+      ],
+      "conditions": [
+        "electronic signature is not based upon biometrics"
+      ],
+      "source_span_id": "S0092"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00128",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00128",
+      "citation": "§ 11.200(a)(1)",
+      "statement": "Electronic signatures not based upon biometrics shall employ at least two distinct identification components such as an identification code and password.",
+      "modality": "shall",
+      "subject": "persons using non-biometric electronic signatures",
+      "object": "identification components",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "non_biometric",
+        "identity_verification"
+      ],
+      "conditions": [
+        "electronic signature is not based upon biometrics"
+      ],
+      "source_span_id": "S0093"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00129",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00129",
+      "citation": "§ 11.200(a)(1)(i)",
+      "statement": "During a single continuous period of controlled system access involving a series of signings, the first signing shall be executed using all electronic signature components.",
+      "modality": "shall",
+      "subject": "persons using non-biometric electronic signatures",
+      "object": "first signing in a continuous session",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "non_biometric",
+        "continuous_session",
+        "session_signing"
+      ],
+      "conditions": [
+        "individual executes a series of signings during a single, continuous period of controlled system access",
+        "first signing"
+      ],
+      "source_span_id": "S0094"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00130",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00130",
+      "citation": "§ 11.200(a)(1)(i)",
+      "statement": "Subsequent signings in the same continuous session shall be executed using at least one electronic signature component that is only executable by, and designed to be used only by, the individual.",
+      "modality": "shall",
+      "subject": "persons using non-biometric electronic signatures",
+      "object": "subsequent signings in a continuous session",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "non_biometric",
+        "continuous_session",
+        "signature_component",
+        "session_signing"
+      ],
+      "conditions": [
+        "individual executes a series of signings during a single, continuous period of controlled system access",
+        "subsequent signings after the first"
+      ],
+      "source_span_id": "S0094"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00131",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00131",
+      "citation": "§ 11.200(a)(1)(i)",
+      "statement": "At least one electronic signature component used for subsequent signings shall be designed and implemented so that it is only executable by, and only usable by, the specific individual.",
+      "modality": "shall",
+      "subject": "electronic signature system designers",
+      "object": "electronic signature component",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "non_biometric",
+        "signature_component",
+        "component_design"
+      ],
+      "conditions": [
+        "component used for subsequent signings in a continuous session"
+      ],
+      "source_span_id": "S0094"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00132",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00132",
+      "citation": "§ 11.200(a)(1)(ii)",
+      "statement": "When an individual executes signings that are not performed during a single, continuous period of controlled system access, each signing must be executed using all of the electronic signature components.",
+      "modality": "shall",
+      "subject": "individuals executing electronic signings",
+      "object": "each signing",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "non_continuous_session",
+        "signing_execution"
+      ],
+      "conditions": [
+        "signings are not performed during a single, continuous period of controlled system access"
+      ],
+      "source_span_id": "S0095"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00133",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00133",
+      "citation": "§ 11.200(a)(2)",
+      "statement": "Electronic signatures based on biometrics shall be used only by their genuine owners.",
+      "modality": "shall",
+      "subject": "persons using non-biometric electronic signatures",
+      "object": "electronic signature",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "identity_verification"
+      ],
+      "conditions": [],
+      "source_span_id": "S0096"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00134",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00134",
+      "citation": "§ 11.200(a)(3)",
+      "statement": "Electronic signatures not based on biometrics shall be administered and executed such that any attempted use by someone other than the genuine owner requires the collaboration of two or more individuals.",
+      "modality": "shall",
+      "subject": "persons using non-biometric electronic signatures",
+      "object": "administration and execution of electronic signatures",
+      "tags": [
+        "electronic_signature",
+        "non_biometric",
+        "id_password",
+        "collaboration_required",
+        "anti_impersonation"
+      ],
+      "conditions": [
+        "applies to attempted use by anyone other than the genuine owner"
+      ],
+      "source_span_id": "S0097"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00135",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00135",
+      "citation": "§ 11.200(b)",
+      "statement": "Biometric-based electronic signatures shall be designed to ensure they cannot be used by anyone other than their genuine owners.",
+      "modality": "shall",
+      "subject": "persons using biometric electronic signatures",
+      "object": "biometric electronic signature design",
+      "tags": [
+        "electronic_signature",
+        "biometric",
+        "identity_verification"
+      ],
+      "conditions": [
+        "signature is based upon biometrics"
+      ],
+      "source_span_id": "S0098"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00136",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00136",
+      "citation": "§ 11.300 chapeau",
+      "statement": "Persons who use electronic signatures based upon identification codes combined with passwords shall employ controls to ensure the security and integrity of those identification codes and passwords.",
+      "modality": "shall",
+      "subject": "persons who use electronic signatures based upon identification codes in combination with passwords",
+      "object": "controls ensuring security and integrity of identification codes and passwords",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "security",
+        "integrity"
+      ],
+      "conditions": [
+        "electronic signatures based on identification codes combined with passwords are used"
+      ],
+      "source_span_id": "S0100"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00137",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00137",
+      "citation": "§ 11.300 chapeau",
+      "statement": "The controls employed to ensure security and integrity of identification codes and passwords shall include the specific control measures enumerated in the subsequent provisions of § 11.300.",
+      "modality": "shall",
+      "subject": "persons who use electronic signatures based upon identification codes in combination with passwords",
+      "object": "scope of required controls enumerated in § 11.300",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "controls_enumeration"
+      ],
+      "conditions": [
+        "electronic signatures based on identification codes combined with passwords are used"
+      ],
+      "source_span_id": "S0100"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00138",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00138",
+      "citation": "§ 11.300(a)",
+      "statement": "Persons using electronic signatures based on identification codes and passwords shall maintain the uniqueness of each combined identification code and password so that no two individuals share the same combination.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures based on identification codes and passwords",
+      "object": "combined identification code and password",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "identity_verification"
+      ],
+      "conditions": [
+        "electronic signature is based on identification code and password"
+      ],
+      "source_span_id": "S0101"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00139",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00139",
+      "citation": "§ 11.300(b)",
+      "statement": "Persons using electronic signatures based on identification codes and passwords shall ensure that identification code and password issuances are periodically checked.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-based electronic signatures",
+      "object": "identification code and password issuances",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "id_password",
+        "periodic_review"
+      ],
+      "conditions": [
+        "periodically"
+      ],
+      "source_span_id": "S0102"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00140",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00140",
+      "citation": "§ 11.300(b)",
+      "statement": "Persons using electronic signatures based on identification codes and passwords shall ensure that identification code and password issuances are periodically recalled.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-based electronic signatures",
+      "object": "identification code and password issuances",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "id_password",
+        "recall"
+      ],
+      "conditions": [
+        "periodically"
+      ],
+      "source_span_id": "S0102"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00141",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00141",
+      "citation": "§ 11.300(b)",
+      "statement": "Persons using electronic signatures based on identification codes and passwords shall ensure that identification code and password issuances are periodically revised.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-based electronic signatures",
+      "object": "identification code and password issuances",
+      "tags": [
+        "closed_system",
+        "electronic_signature",
+        "id_password",
+        "revision"
+      ],
+      "conditions": [
+        "periodically"
+      ],
+      "source_span_id": "S0102"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00142",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00142",
+      "citation": "§ 11.300(b)",
+      "statement": "The periodic checking, recalling, or revising of identification code and password issuances shall cover events such as password aging.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-based electronic signatures",
+      "object": "password aging events",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "password_aging"
+      ],
+      "conditions": [
+        "events such as password aging"
+      ],
+      "source_span_id": "S0102"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00143",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00143",
+      "citation": "§ 11.300(c)",
+      "statement": "Persons using electronic identification mechanisms shall follow loss management procedures to electronically deauthorize lost, stolen, missing, or otherwise potentially compromised tokens, cards, and other devices that bear or generate identification code or password information.",
+      "modality": "shall",
+      "subject": "persons using tokens, cards, or devices that bear or generate identification code or password information",
+      "object": "loss management procedures for deauthorizing compromised devices",
+      "tags": [
+        "id_password",
+        "tokens_cards",
+        "loss_management",
+        "deauthorization"
+      ],
+      "conditions": [
+        "device is lost, stolen, missing, or otherwise potentially compromised"
+      ],
+      "source_span_id": "S0103"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00144",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00144",
+      "citation": "§ 11.300(c)",
+      "statement": "Persons using electronic identification mechanisms shall issue temporary or permanent replacements for compromised tokens, cards, and devices using suitable, rigorous controls.",
+      "modality": "shall",
+      "subject": "persons using tokens, cards, or devices that bear or generate identification code or password information",
+      "object": "issuance of temporary or permanent replacements",
+      "tags": [
+        "id_password",
+        "tokens_cards",
+        "loss_management",
+        "replacement_issuance",
+        "controls"
+      ],
+      "conditions": [
+        "replacing a compromised, lost, stolen, or missing device"
+      ],
+      "source_span_id": "S0103"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00145",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00145",
+      "citation": "§ 11.300(d)",
+      "statement": "Persons using electronic signatures based on identification codes and/or passwords shall use transaction safeguards to prevent unauthorized use of passwords and/or identification codes.",
+      "modality": "shall",
+      "subject": "persons using id/password-based electronic signatures",
+      "object": "transaction safeguards preventing unauthorized password/ID code use",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "transaction_safeguards"
+      ],
+      "conditions": [],
+      "source_span_id": "S0104"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00146",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00146",
+      "citation": "§ 11.300(d)",
+      "statement": "Transaction safeguards shall detect and report any attempts at unauthorized use of passwords and/or identification codes to the system security unit in an immediate and urgent manner.",
+      "modality": "shall",
+      "subject": "persons using id/password-based electronic signatures",
+      "object": "detection and reporting of unauthorized use attempts to the system security unit",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "transaction_safeguards",
+        "incident_reporting",
+        "system_security_unit"
+      ],
+      "conditions": [
+        "attempts at unauthorized use detected"
+      ],
+      "source_span_id": "S0104"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00147",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00147",
+      "citation": "§ 11.300(d)",
+      "statement": "Transaction safeguards shall report attempts at unauthorized use of passwords and/or identification codes to organizational management, as appropriate.",
+      "modality": "shall",
+      "subject": "persons using id/password-based electronic signatures",
+      "object": "reporting of unauthorized use attempts to organizational management",
+      "tags": [
+        "electronic_signature",
+        "id_password",
+        "transaction_safeguards",
+        "incident_reporting",
+        "organizational_management"
+      ],
+      "conditions": [
+        "as appropriate"
+      ],
+      "source_span_id": "S0104"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00148",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00148",
+      "citation": "§ 11.300(e)",
+      "statement": "Persons using electronic signatures based on identification codes shall perform initial and periodic testing of devices (such as tokens or cards) that bear or generate identification code or password information to ensure they function properly.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-bearing or generating devices",
+      "object": "devices that bear or generate identification code or password information",
+      "tags": [
+        "id_password",
+        "electronic_signature",
+        "device_testing",
+        "tokens_cards"
+      ],
+      "conditions": [
+        "device bears or generates identification code or password information"
+      ],
+      "source_span_id": "S0105"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00149",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00149",
+      "citation": "§ 11.300(e)",
+      "statement": "Persons using electronic signatures based on identification codes shall perform initial and periodic testing of devices (such as tokens or cards) that bear or generate identification code or password information to ensure they have not been altered in an unauthorized manner.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-bearing or generating devices",
+      "object": "devices that bear or generate identification code or password information",
+      "tags": [
+        "id_password",
+        "electronic_signature",
+        "device_testing",
+        "tokens_cards",
+        "tamper_detection"
+      ],
+      "conditions": [
+        "device bears or generates identification code or password information"
+      ],
+      "source_span_id": "S0105"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00150",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00150",
+      "citation": "§ 11.300(e)",
+      "statement": "Initial testing of identification code/password devices shall be performed.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-bearing or generating devices",
+      "object": "devices that bear or generate identification code or password information",
+      "tags": [
+        "id_password",
+        "electronic_signature",
+        "device_testing",
+        "initial_testing"
+      ],
+      "conditions": [],
+      "source_span_id": "S0105"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00151",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00151",
+      "citation": "§ 11.300(e)",
+      "statement": "Periodic testing of identification code/password devices shall be performed on an ongoing basis.",
+      "modality": "shall",
+      "subject": "persons using identification code/password-bearing or generating devices",
+      "object": "devices that bear or generate identification code or password information",
+      "tags": [
+        "id_password",
+        "electronic_signature",
+        "device_testing",
+        "periodic_testing"
+      ],
+      "conditions": [],
+      "source_span_id": "S0105"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00152",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00152",
+      "citation": "§ 11.1(h)",
+      "statement": "Part 11 does not apply to electronic signatures obtained under § 101.8(d) of this chapter.",
+      "modality": "unspecified",
+      "subject": "Part 11 (regulated entities applying Part 11)",
+      "object": "electronic signatures obtained under § 101.8(d)",
+      "tags": [
+        "scope_exclusion",
+        "electronic_signature"
+      ],
+      "conditions": [
+        "electronic signature obtained under § 101.8(d) of this chapter"
+      ],
+      "source_span_id": "S0030"
+    },
+    {
+      "id": "fda/21-cfr-part-11:R00153",
+      "doc_id": "fda/21-cfr-part-11",
+      "doc_title": "Electronic Records; Electronic Signatures",
+      "req_id": "R00153",
+      "citation": "§ 11.1(i)",
+      "statement": "Records that satisfy part 117 requirements but are also required under other applicable statutory provisions or regulations are subject to Part 11.",
+      "modality": "unspecified",
+      "subject": "Records satisfying part 117 that are also required under other applicable statutory provisions or regulations",
+      "object": "Applicability of Part 11 requirements",
+      "tags": [
+        "scope",
+        "re_inclusion",
+        "part_117_overlap"
+      ],
+      "conditions": [
+        "record satisfies part 117 requirements",
+        "record is also required under other applicable statutory provisions or regulations"
+      ],
+      "source_span_id": "S0031"
+    }
+  ],
+  "edges": [
+    {
+      "id": "fda/21-cfr-part-11:E0001",
+      "source": "fda/21-cfr-part-11:R00010",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Validation discerns 'invalid or altered records' — supports integrity. (Analyst B suggested authenticity instead — preserved as ambiguous alternate.)",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0002",
+      "source": "fda/21-cfr-part-11:R00011",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Ability to generate accurate and complete copies supports integrity / availability of records.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0003",
+      "source": "fda/21-cfr-part-11:R00012",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Protection for accurate ready retrieval supports integrity over the retention period.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0004",
+      "source": "fda/21-cfr-part-11:R00013",
+      "target": "fda/21-cfr-part-11:R00006",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Limiting access to authorized individuals supports authenticity of system actions.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0005",
+      "source": "fda/21-cfr-part-11:R00014",
+      "target": "fda/21-cfr-part-11:R00009",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Secure audit trail supports non-repudiation of signed records.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0006",
+      "source": "fda/21-cfr-part-11:R00015",
+      "target": "fda/21-cfr-part-11:R00009",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Computer-generated audit trail supports non-repudiation.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0007",
+      "source": "fda/21-cfr-part-11:R00016",
+      "target": "fda/21-cfr-part-11:R00009",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Time-stamped audit trail supports non-repudiation.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0008",
+      "source": "fda/21-cfr-part-11:R00017",
+      "target": "fda/21-cfr-part-11:R00009",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Independently recording date/time of CUD operations supports non-repudiation.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0009",
+      "source": "fda/21-cfr-part-11:R00018",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Not obscuring previously recorded information supports record integrity.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0010",
+      "source": "fda/21-cfr-part-11:R00019",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Audit-trail retention as long as records supports integrity over time.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0011",
+      "source": "fda/21-cfr-part-11:R00020",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Audit trails available for agency review supports verifiable integrity.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0012",
+      "source": "fda/21-cfr-part-11:R00021",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Enforcing permitted sequencing supports record integrity.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0013",
+      "source": "fda/21-cfr-part-11:R00022",
+      "target": "fda/21-cfr-part-11:R00006",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Authority checks support authenticity (only authorized actors).",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0014",
+      "source": "fda/21-cfr-part-11:R00023",
+      "target": "fda/21-cfr-part-11:R00006",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Device checks support authenticity of input source.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0015",
+      "source": "fda/21-cfr-part-11:R00024",
+      "target": "fda/21-cfr-part-11:R00009",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Trained personnel deter falsification and support non-repudiation.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0016",
+      "source": "fda/21-cfr-part-11:R00025",
+      "target": "fda/21-cfr-part-11:R00009",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Written accountability policies deter signature falsification — supports non-repudiation.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0017",
+      "source": "fda/21-cfr-part-11:R00026",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Controls over systems documentation support integrity of the system's operating record.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0018",
+      "source": "fda/21-cfr-part-11:R00027",
+      "target": "fda/21-cfr-part-11:R00026",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Distribution / access / use controls implement 'appropriate controls over systems documentation'.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0019",
+      "source": "fda/21-cfr-part-11:R00028",
+      "target": "fda/21-cfr-part-11:R00026",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Revision-and-change-control audit trail implements 'appropriate controls over systems documentation'.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0020",
+      "source": "fda/21-cfr-part-11:R00033",
+      "target": "fda/21-cfr-part-11:R00032",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Printed name of signer is one of the items the signed record shall contain.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0021",
+      "source": "fda/21-cfr-part-11:R00034",
+      "target": "fda/21-cfr-part-11:R00032",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Date/time of execution is one of the items the signed record shall contain.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0022",
+      "source": "fda/21-cfr-part-11:R00035",
+      "target": "fda/21-cfr-part-11:R00032",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Signature meaning is one of the items the signed record shall contain.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0023",
+      "source": "fda/21-cfr-part-11:R00043",
+      "target": "fda/21-cfr-part-11:R00042",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Signing the certification with a handwritten signature refines how the certification is provided.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0024",
+      "source": "fda/21-cfr-part-11:R00044",
+      "target": "fda/21-cfr-part-11:R00042",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Providing additional certification on agency request refines the certification obligation.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0025",
+      "source": "fda/21-cfr-part-11:R00046",
+      "target": "fda/21-cfr-part-11:R00045",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Two distinct components is one requirement non-biometric signatures must meet.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0026",
+      "source": "fda/21-cfr-part-11:R00050",
+      "target": "fda/21-cfr-part-11:R00045",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Genuine-owner-only use is one requirement non-biometric signatures must meet.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0027",
+      "source": "fda/21-cfr-part-11:R00051",
+      "target": "fda/21-cfr-part-11:R00045",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Collusion-required-for-misuse is one requirement non-biometric signatures must meet.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0028",
+      "source": "fda/21-cfr-part-11:R00047",
+      "target": "fda/21-cfr-part-11:R00046",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Continuous-session first-signing rule specifies the two-component rule.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0029",
+      "source": "fda/21-cfr-part-11:R00048",
+      "target": "fda/21-cfr-part-11:R00046",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Continuous-session subsequent-signing rule specifies the two-component rule.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0030",
+      "source": "fda/21-cfr-part-11:R00049",
+      "target": "fda/21-cfr-part-11:R00046",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Non-continuous-session signing rule specifies the two-component rule.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0031",
+      "source": "fda/21-cfr-part-11:R00054",
+      "target": "fda/21-cfr-part-11:R00053",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Uniqueness of credentials is one of the required ID-code+password controls.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0032",
+      "source": "fda/21-cfr-part-11:R00055",
+      "target": "fda/21-cfr-part-11:R00053",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Periodic check/recall/revise is one of the required ID-code+password controls.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0033",
+      "source": "fda/21-cfr-part-11:R00056",
+      "target": "fda/21-cfr-part-11:R00053",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Loss management is one of the required ID-code+password controls.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0034",
+      "source": "fda/21-cfr-part-11:R00057",
+      "target": "fda/21-cfr-part-11:R00053",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Transaction safeguards are one of the required ID-code+password controls.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0035",
+      "source": "fda/21-cfr-part-11:R00058",
+      "target": "fda/21-cfr-part-11:R00053",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Immediate/urgent reporting of unauthorized attempts is one of the required controls.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0036",
+      "source": "fda/21-cfr-part-11:R00059",
+      "target": "fda/21-cfr-part-11:R00053",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Initial and periodic device testing is one of the required ID-code+password controls.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0037",
+      "source": "fda/21-cfr-part-11:R00030",
+      "target": "fda/21-cfr-part-11:R00006",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.30 'shall include those identified in § 11.10' — incorporates the authenticity umbrella.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0038",
+      "source": "fda/21-cfr-part-11:R00030",
+      "target": "fda/21-cfr-part-11:R00007",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.30 incorporates the § 11.10 integrity umbrella.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0039",
+      "source": "fda/21-cfr-part-11:R00030",
+      "target": "fda/21-cfr-part-11:R00008",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.30 incorporates the § 11.10 confidentiality umbrella.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0040",
+      "source": "fda/21-cfr-part-11:R00030",
+      "target": "fda/21-cfr-part-11:R00009",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.30 incorporates the § 11.10 non-repudiation umbrella.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0041",
+      "source": "fda/21-cfr-part-11:R00036",
+      "target": "fda/21-cfr-part-11:R00033",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.50(b) cites 'paragraphs (a)(1)' — printed name of signer.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0042",
+      "source": "fda/21-cfr-part-11:R00036",
+      "target": "fda/21-cfr-part-11:R00034",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.50(b) cites 'paragraphs (a)(2)' — date/time.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0043",
+      "source": "fda/21-cfr-part-11:R00036",
+      "target": "fda/21-cfr-part-11:R00035",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.50(b) cites 'paragraphs (a)(3)' — signature meaning.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0044",
+      "source": "fda/21-cfr-part-11:R00037",
+      "target": "fda/21-cfr-part-11:R00033",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.50(b) human-readable inclusion applies to paragraph (a)(1).",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0045",
+      "source": "fda/21-cfr-part-11:R00037",
+      "target": "fda/21-cfr-part-11:R00034",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.50(b) human-readable inclusion applies to paragraph (a)(2).",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0046",
+      "source": "fda/21-cfr-part-11:R00037",
+      "target": "fda/21-cfr-part-11:R00035",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "references",
+      "scope": "intra_doc",
+      "evidence": "§ 11.50(b) human-readable inclusion applies to paragraph (a)(3).",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0047",
+      "source": "fda/21-cfr-part-11:R00004",
+      "target": "fda/21-cfr-part-11:R00005",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "conditional_on",
+      "scope": "intra_doc",
+      "evidence": "§ 11.2(b) permission for submitted records depends on '(1) The requirements of this part are met'.",
+      "citation": ""
+    },
+    {
+      "id": "fda/21-cfr-part-11:E0048",
+      "source": "fda/21-cfr-part-11:R00010",
+      "target": "fda/21-cfr-part-11:R00006",
+      "source_doc": "fda/21-cfr-part-11",
+      "target_doc": "fda/21-cfr-part-11",
+      "type": "refines",
+      "scope": "intra_doc",
+      "evidence": "Analyst B's alternate reading: validation supports authenticity.",
+      "citation": ""
+    }
+  ],
+  "stats": {
+    "documents": 7,
+    "nodes": 153,
+    "edges": 48,
+    "edges_by_scope": {
+      "intra_doc": 48
+    },
+    "edges_by_type": {
+      "conditional_on": 1,
+      "references": 10,
+      "refines": 37
+    },
+    "edges_by_doc_pair": {
+      "fda/21-cfr-part-11 -> fda/21-cfr-part-11": 48
+    },
+    "cross_doc_atomic_edges": 0,
+    "cross_doc_refs_unresolved_to_atomic": 0
+  }
+}

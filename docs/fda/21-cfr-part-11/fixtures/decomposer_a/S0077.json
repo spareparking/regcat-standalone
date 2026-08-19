@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "The printed name of the signer",
+      "atomic_statement": "Signed electronic records shall include the printed name of the signer.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "signature manifestation field",
+      "applicability_tags": [
+        "signature_manifestation",
+        "signer_name"
+      ],
+      "conditions": []
+    }
+  ]
+}

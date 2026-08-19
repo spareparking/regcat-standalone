@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Use of device (e.g., terminal) checks to determine, as appropriate, the validity of the source of data input\nor operational instruction",
+      "atomic_statement": "Use device (e.g., terminal) checks to determine, as appropriate, the validity of the source of data input or operational instruction.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "device checks",
+      "applicability_tags": [
+        "closed_system",
+        "device_validation"
+      ],
+      "conditions": [
+        "as appropriate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Each electronic signature shall be unique to one individual",
+      "atomic_statement": "Each electronic signature shall be unique to one individual.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "electronic signature",
+      "applicability_tags": [
+        "electronic_signature",
+        "uniqueness"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "shall not be reused by, or reassigned to,\nanyone else",
+      "atomic_statement": "An electronic signature shall not be reused by or reassigned to anyone else.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "electronic signature",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_reuse"
+      ],
+      "conditions": []
+    }
+  ]
+}

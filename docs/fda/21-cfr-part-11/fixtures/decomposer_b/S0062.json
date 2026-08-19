@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Protection of records to enable their accurate and ready retrieval throughout the records retention period",
+      "atomic_statement": "Protect records to enable their accurate and ready retrieval throughout the records retention period.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "electronic records",
+      "applicability_tags": [
+        "closed_system",
+        "retention",
+        "retrieval"
+      ],
+      "conditions": []
+    }
+  ]
+}

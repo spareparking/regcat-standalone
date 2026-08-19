@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Electronic signatures based upon biometrics shall be designed to ensure that they cannot be used by\nanyone other than their genuine owners",
+      "atomic_statement": "Biometric electronic signatures shall be designed to ensure they cannot be used by anyone other than their genuine owners.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "biometric electronic signatures",
+      "applicability_tags": [
+        "electronic_signature",
+        "biometric",
+        "owner_only"
+      ],
+      "conditions": []
+    }
+  ]
+}

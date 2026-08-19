@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "persons may use electronic\nrecords in lieu of paper records or electronic signatures in lieu of traditional signatures, in whole or in part,\nprovided that the requirements of this part are met",
+      "atomic_statement": "Persons may use electronic records or signatures in lieu of paper/traditional ones for records maintained but not submitted to the agency, provided this part is met.",
+      "modality": "may",
+      "subject": "persons",
+      "object": "electronic records and signatures",
+      "applicability_tags": [
+        "records_not_submitted",
+        "paper_equivalence"
+      ],
+      "conditions": [
+        "requirements of this part are met"
+      ]
+    }
+  ]
+}

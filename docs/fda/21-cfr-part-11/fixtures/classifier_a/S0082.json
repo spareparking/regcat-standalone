@@ -1,0 +1,5 @@
+{
+  "label": "requirement_bearing",
+  "reason": "Linking signatures to their records to prevent falsification.",
+  "confidence": "high"
+}

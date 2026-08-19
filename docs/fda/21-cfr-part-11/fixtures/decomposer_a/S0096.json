@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Be used only by their genuine owners",
+      "atomic_statement": "Non-biometric electronic signatures shall be used only by their genuine owners.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "non-biometric electronic signatures",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_biometric",
+        "owner_only"
+      ],
+      "conditions": []
+    }
+  ]
+}

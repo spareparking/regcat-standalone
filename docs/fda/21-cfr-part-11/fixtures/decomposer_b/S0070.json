@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Use of appropriate controls over systems documentation",
+      "atomic_statement": "Use appropriate controls over systems documentation.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "systems documentation",
+      "applicability_tags": [
+        "closed_system",
+        "documentation"
+      ],
+      "conditions": []
+    }
+  ]
+}

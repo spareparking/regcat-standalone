@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Employ at least two distinct identification components such as an identification code and password",
+      "atomic_statement": "Non-biometric electronic signatures shall employ at least two distinct identification components (e.g., ID code + password).",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "electronic signature components",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_biometric",
+        "id_password",
+        "two_factor"
+      ],
+      "conditions": []
+    }
+  ]
+}

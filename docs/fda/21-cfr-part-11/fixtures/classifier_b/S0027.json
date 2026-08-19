@@ -1,0 +1,5 @@
+{
+  "label": "administrative",
+  "reason": "Analyst B flagged this as administrative (FDA inspection access) rather than a system obligation.",
+  "confidence": "medium"
+}

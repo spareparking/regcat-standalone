@@ -1,0 +1,47 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Persons who use open systems to create, modify, maintain, or transmit electronic records shall employ procedures\nand controls designed to ensure the authenticity, integrity, and, as appropriate, the confidentiality of electronic\nrecords from the point of their creation to the point of their receipt",
+      "atomic_statement": "Persons who use open systems shall employ procedures and controls to ensure the authenticity, integrity, and (as appropriate) confidentiality of electronic records from creation to receipt.",
+      "modality": "shall",
+      "subject": "persons who use open systems",
+      "object": "electronic records",
+      "applicability_tags": [
+        "open_system",
+        "authenticity",
+        "integrity",
+        "confidentiality"
+      ],
+      "conditions": [
+        "confidentiality only as appropriate"
+      ]
+    },
+    {
+      "verbatim_quote": "Such procedures and controls shall include\nthose identified in § 11.10",
+      "atomic_statement": "Open-system controls shall include those identified in § 11.10, as appropriate.",
+      "modality": "shall",
+      "subject": "persons who use open systems",
+      "object": "open-system controls",
+      "applicability_tags": [
+        "open_system",
+        "references_11_10"
+      ],
+      "conditions": [
+        "as appropriate"
+      ]
+    },
+    {
+      "verbatim_quote": "additional measures such as document encryption and use of\nappropriate digital signature standards",
+      "atomic_statement": "Open-system controls shall include additional measures such as document encryption and use of appropriate digital signature standards to ensure authenticity, integrity, and confidentiality.",
+      "modality": "shall",
+      "subject": "persons who use open systems",
+      "object": "encryption and digital signatures",
+      "applicability_tags": [
+        "open_system",
+        "encryption",
+        "digital_signature"
+      ],
+      "conditions": []
+    }
+  ]
+}

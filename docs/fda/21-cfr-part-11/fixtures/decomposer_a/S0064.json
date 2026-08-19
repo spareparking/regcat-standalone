@@ -1,0 +1,69 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Use of secure, computer-generated, time-stamped audit trails",
+      "atomic_statement": "Use secure, computer-generated, time-stamped audit trails.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "audit trail",
+      "applicability_tags": [
+        "closed_system",
+        "audit_trail",
+        "security"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "independently record the date and time of\noperator entries and actions that create, modify, or delete electronic records",
+      "atomic_statement": "Audit trails shall independently record the date and time of operator entries and actions that create, modify, or delete electronic records.",
+      "modality": "shall",
+      "subject": "audit trail",
+      "object": "operator entries and actions",
+      "applicability_tags": [
+        "closed_system",
+        "audit_trail",
+        "logging"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "Record changes shall not\nobscure previously recorded information",
+      "atomic_statement": "Record changes shall not obscure previously recorded information.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "audit trail",
+      "applicability_tags": [
+        "closed_system",
+        "audit_trail",
+        "immutability"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "audit trail documentation shall be retained for a period at\nleast as long as that required for the subject electronic records",
+      "atomic_statement": "Audit trail documentation shall be retained at least as long as the underlying records' retention period.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "audit trail documentation",
+      "applicability_tags": [
+        "closed_system",
+        "audit_trail",
+        "retention"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "shall be available for agency review\nand copying",
+      "atomic_statement": "Audit trail documentation shall be available for agency review and copying.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "audit trail documentation",
+      "applicability_tags": [
+        "closed_system",
+        "audit_trail",
+        "fda_inspection"
+      ],
+      "conditions": []
+    }
+  ]
+}

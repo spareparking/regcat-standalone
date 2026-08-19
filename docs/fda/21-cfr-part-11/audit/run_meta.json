@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-08-19T12:54:11",
+  "completed_at": "2026-08-19T12:54:12",
+  "pdf_path": "docs\\fda\\21-cfr-part-11\\source.pdf",
+  "pdf_sha256": "53cfc4e879e08539a455fc38df1b04bef248e027d4f5caafa7c233406a59cf1b",
+  "canonical_sha256": "69bf1669db8758aded8af20593de9e64bae3ae4290b090e8b452833af65b6c5c",
+  "mode": "mock",
+  "model": "mock",
+  "stages_completed": [
+    "ingest",
+    "boilerplate",
+    "segment",
+    "classify",
+    "decompose",
+    "embedded_audit",
+    "audit",
+    "relate",
+    "validate_rel",
+    "adjudicate",
+    "audit",
+    "validate_rel",
+    "render"
+  ],
+  "error": null
+}

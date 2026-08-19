@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Maintaining the uniqueness of each combined identification code and password, such that no two\nindividuals have the same combination of identification code and password",
+      "atomic_statement": "Maintain the uniqueness of each combined ID code and password so that no two individuals share the same combination.",
+      "modality": "shall",
+      "subject": "persons using ID-code + password signatures",
+      "object": "credential uniqueness",
+      "applicability_tags": [
+        "electronic_signature",
+        "id_password",
+        "uniqueness"
+      ],
+      "conditions": []
+    }
+  ]
+}

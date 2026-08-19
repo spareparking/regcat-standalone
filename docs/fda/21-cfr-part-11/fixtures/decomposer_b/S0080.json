@@ -1,0 +1,28 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "items identified in paragraphs (a)(1), (a)(2), and (a)(3) of this section shall be subject to the same\ncontrols as for electronic records",
+      "atomic_statement": "The signing-information items in §11.50(a)(1)-(3) shall be subject to the same controls as electronic records.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "signature manifestation fields",
+      "applicability_tags": [
+        "signature_manifestation",
+        "controls_parity"
+      ],
+      "conditions": []
+    },
+    {
+      "verbatim_quote": "shall be included as part of any human readable form of the\nelectronic record (such as electronic display or printout)",
+      "atomic_statement": "The signing-information items in §11.50(a)(1)-(3) shall be included in any human-readable form of the electronic record (e.g., display, printout).",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "human-readable record form",
+      "applicability_tags": [
+        "signature_manifestation",
+        "human_readable"
+      ],
+      "conditions": []
+    }
+  ]
+}

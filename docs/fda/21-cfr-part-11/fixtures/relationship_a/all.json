@@ -1,0 +1,286 @@
+{
+  "relationships": [
+    {
+      "source_req_id": "R00010",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Validation discerns 'invalid or altered records' — supports integrity."
+    },
+    {
+      "source_req_id": "R00011",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Ability to generate accurate and complete copies supports integrity / availability of records."
+    },
+    {
+      "source_req_id": "R00012",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Protection for accurate ready retrieval supports integrity over the retention period."
+    },
+    {
+      "source_req_id": "R00013",
+      "target_req_id": "R00006",
+      "type": "refines",
+      "evidence": "Limiting access to authorized individuals supports authenticity of system actions."
+    },
+    {
+      "source_req_id": "R00014",
+      "target_req_id": "R00009",
+      "type": "refines",
+      "evidence": "Secure audit trail supports non-repudiation of signed records."
+    },
+    {
+      "source_req_id": "R00015",
+      "target_req_id": "R00009",
+      "type": "refines",
+      "evidence": "Computer-generated audit trail supports non-repudiation."
+    },
+    {
+      "source_req_id": "R00016",
+      "target_req_id": "R00009",
+      "type": "refines",
+      "evidence": "Time-stamped audit trail supports non-repudiation."
+    },
+    {
+      "source_req_id": "R00017",
+      "target_req_id": "R00009",
+      "type": "refines",
+      "evidence": "Independently recording date/time of CUD operations supports non-repudiation."
+    },
+    {
+      "source_req_id": "R00018",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Not obscuring previously recorded information supports record integrity."
+    },
+    {
+      "source_req_id": "R00019",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Audit-trail retention as long as records supports integrity over time."
+    },
+    {
+      "source_req_id": "R00020",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Audit trails available for agency review supports verifiable integrity."
+    },
+    {
+      "source_req_id": "R00021",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Enforcing permitted sequencing supports record integrity."
+    },
+    {
+      "source_req_id": "R00022",
+      "target_req_id": "R00006",
+      "type": "refines",
+      "evidence": "Authority checks support authenticity (only authorized actors)."
+    },
+    {
+      "source_req_id": "R00023",
+      "target_req_id": "R00006",
+      "type": "refines",
+      "evidence": "Device checks support authenticity of input source."
+    },
+    {
+      "source_req_id": "R00024",
+      "target_req_id": "R00009",
+      "type": "refines",
+      "evidence": "Trained personnel deter falsification and support non-repudiation."
+    },
+    {
+      "source_req_id": "R00025",
+      "target_req_id": "R00009",
+      "type": "refines",
+      "evidence": "Written accountability policies deter signature falsification — supports non-repudiation."
+    },
+    {
+      "source_req_id": "R00026",
+      "target_req_id": "R00007",
+      "type": "refines",
+      "evidence": "Controls over systems documentation support integrity of the system's operating record."
+    },
+    {
+      "source_req_id": "R00027",
+      "target_req_id": "R00026",
+      "type": "refines",
+      "evidence": "Distribution / access / use controls implement 'appropriate controls over systems documentation'."
+    },
+    {
+      "source_req_id": "R00028",
+      "target_req_id": "R00026",
+      "type": "refines",
+      "evidence": "Revision-and-change-control audit trail implements 'appropriate controls over systems documentation'."
+    },
+    {
+      "source_req_id": "R00033",
+      "target_req_id": "R00032",
+      "type": "refines",
+      "evidence": "Printed name of signer is one of the items the signed record shall contain."
+    },
+    {
+      "source_req_id": "R00034",
+      "target_req_id": "R00032",
+      "type": "refines",
+      "evidence": "Date/time of execution is one of the items the signed record shall contain."
+    },
+    {
+      "source_req_id": "R00035",
+      "target_req_id": "R00032",
+      "type": "refines",
+      "evidence": "Signature meaning is one of the items the signed record shall contain."
+    },
+    {
+      "source_req_id": "R00043",
+      "target_req_id": "R00042",
+      "type": "refines",
+      "evidence": "Signing the certification with a handwritten signature refines how the certification is provided."
+    },
+    {
+      "source_req_id": "R00044",
+      "target_req_id": "R00042",
+      "type": "refines",
+      "evidence": "Providing additional certification on agency request refines the certification obligation."
+    },
+    {
+      "source_req_id": "R00046",
+      "target_req_id": "R00045",
+      "type": "refines",
+      "evidence": "Two distinct components is one requirement non-biometric signatures must meet."
+    },
+    {
+      "source_req_id": "R00050",
+      "target_req_id": "R00045",
+      "type": "refines",
+      "evidence": "Genuine-owner-only use is one requirement non-biometric signatures must meet."
+    },
+    {
+      "source_req_id": "R00051",
+      "target_req_id": "R00045",
+      "type": "refines",
+      "evidence": "Collusion-required-for-misuse is one requirement non-biometric signatures must meet."
+    },
+    {
+      "source_req_id": "R00047",
+      "target_req_id": "R00046",
+      "type": "refines",
+      "evidence": "Continuous-session first-signing rule specifies the two-component rule."
+    },
+    {
+      "source_req_id": "R00048",
+      "target_req_id": "R00046",
+      "type": "refines",
+      "evidence": "Continuous-session subsequent-signing rule specifies the two-component rule."
+    },
+    {
+      "source_req_id": "R00049",
+      "target_req_id": "R00046",
+      "type": "refines",
+      "evidence": "Non-continuous-session signing rule specifies the two-component rule."
+    },
+    {
+      "source_req_id": "R00054",
+      "target_req_id": "R00053",
+      "type": "refines",
+      "evidence": "Uniqueness of credentials is one of the required ID-code+password controls."
+    },
+    {
+      "source_req_id": "R00055",
+      "target_req_id": "R00053",
+      "type": "refines",
+      "evidence": "Periodic check/recall/revise is one of the required ID-code+password controls."
+    },
+    {
+      "source_req_id": "R00056",
+      "target_req_id": "R00053",
+      "type": "refines",
+      "evidence": "Loss management is one of the required ID-code+password controls."
+    },
+    {
+      "source_req_id": "R00057",
+      "target_req_id": "R00053",
+      "type": "refines",
+      "evidence": "Transaction safeguards are one of the required ID-code+password controls."
+    },
+    {
+      "source_req_id": "R00058",
+      "target_req_id": "R00053",
+      "type": "refines",
+      "evidence": "Immediate/urgent reporting of unauthorized attempts is one of the required controls."
+    },
+    {
+      "source_req_id": "R00059",
+      "target_req_id": "R00053",
+      "type": "refines",
+      "evidence": "Initial and periodic device testing is one of the required ID-code+password controls."
+    },
+    {
+      "source_req_id": "R00030",
+      "target_req_id": "R00006",
+      "type": "references",
+      "evidence": "§ 11.30 'shall include those identified in § 11.10' — incorporates the authenticity umbrella."
+    },
+    {
+      "source_req_id": "R00030",
+      "target_req_id": "R00007",
+      "type": "references",
+      "evidence": "§ 11.30 incorporates the § 11.10 integrity umbrella."
+    },
+    {
+      "source_req_id": "R00030",
+      "target_req_id": "R00008",
+      "type": "references",
+      "evidence": "§ 11.30 incorporates the § 11.10 confidentiality umbrella."
+    },
+    {
+      "source_req_id": "R00030",
+      "target_req_id": "R00009",
+      "type": "references",
+      "evidence": "§ 11.30 incorporates the § 11.10 non-repudiation umbrella."
+    },
+    {
+      "source_req_id": "R00036",
+      "target_req_id": "R00033",
+      "type": "references",
+      "evidence": "§ 11.50(b) cites 'paragraphs (a)(1)' — printed name of signer."
+    },
+    {
+      "source_req_id": "R00036",
+      "target_req_id": "R00034",
+      "type": "references",
+      "evidence": "§ 11.50(b) cites 'paragraphs (a)(2)' — date/time."
+    },
+    {
+      "source_req_id": "R00036",
+      "target_req_id": "R00035",
+      "type": "references",
+      "evidence": "§ 11.50(b) cites 'paragraphs (a)(3)' — signature meaning."
+    },
+    {
+      "source_req_id": "R00037",
+      "target_req_id": "R00033",
+      "type": "references",
+      "evidence": "§ 11.50(b) human-readable inclusion applies to paragraph (a)(1)."
+    },
+    {
+      "source_req_id": "R00037",
+      "target_req_id": "R00034",
+      "type": "references",
+      "evidence": "§ 11.50(b) human-readable inclusion applies to paragraph (a)(2)."
+    },
+    {
+      "source_req_id": "R00037",
+      "target_req_id": "R00035",
+      "type": "references",
+      "evidence": "§ 11.50(b) human-readable inclusion applies to paragraph (a)(3)."
+    },
+    {
+      "source_req_id": "R00004",
+      "target_req_id": "R00005",
+      "type": "conditional_on",
+      "evidence": "§ 11.2(b) permission for submitted records depends on '(1) The requirements of this part are met'."
+    }
+  ]
+}

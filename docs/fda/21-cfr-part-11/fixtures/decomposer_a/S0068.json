@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Determination that persons who develop, maintain, or use electronic record/electronic signature systems\nhave the education, training, and experience to perform their assigned tasks",
+      "atomic_statement": "Determine that persons who develop, maintain, or use electronic record / electronic signature systems have the education, training, and experience to perform their assigned tasks.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "personnel competency",
+      "applicability_tags": [
+        "closed_system",
+        "training"
+      ],
+      "conditions": []
+    }
+  ]
+}

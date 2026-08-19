@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Limiting system access to authorized individuals",
+      "atomic_statement": "Limit system access to authorized individuals.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "system access",
+      "applicability_tags": [
+        "closed_system",
+        "access_control"
+      ],
+      "conditions": []
+    }
+  ]
+}

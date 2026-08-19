@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Use of operational system checks to enforce permitted sequencing of steps and events, as appropriate",
+      "atomic_statement": "Use operational system checks to enforce permitted sequencing of steps and events, as appropriate.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "operational system checks",
+      "applicability_tags": [
+        "closed_system",
+        "sequencing"
+      ],
+      "conditions": [
+        "as appropriate"
+      ]
+    }
+  ]
+}

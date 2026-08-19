@@ -1,0 +1,18 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Following loss management procedures to electronically deauthorize lost, stolen, missing, or otherwise\npotentially compromised tokens, cards, and other devices that bear or generate identification code or\npassword information, and to issue temporary or permanent replacements using suitable, rigorous\ncontrols",
+      "atomic_statement": "Follow loss-management procedures to electronically deauthorize compromised credential devices and issue temporary or permanent replacements under suitable controls.",
+      "modality": "shall",
+      "subject": "persons using ID-code + password signatures",
+      "object": "credential loss management",
+      "applicability_tags": [
+        "electronic_signature",
+        "id_password",
+        "loss_management",
+        "replacement"
+      ],
+      "conditions": []
+    }
+  ]
+}

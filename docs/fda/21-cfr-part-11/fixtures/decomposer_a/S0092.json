@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Electronic signatures that are not based upon biometrics shall",
+      "atomic_statement": "Non-biometric electronic signatures must satisfy the requirements in §11.200(a)(1)-(3).",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "non-biometric electronic signatures",
+      "applicability_tags": [
+        "electronic_signature",
+        "non_biometric"
+      ],
+      "conditions": []
+    }
+  ]
+}

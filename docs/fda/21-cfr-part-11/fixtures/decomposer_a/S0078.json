@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "The date and time when the signature was executed",
+      "atomic_statement": "Signed electronic records shall include the date and time when the signature was executed.",
+      "modality": "shall",
+      "subject": "regulated party",
+      "object": "signature manifestation field",
+      "applicability_tags": [
+        "signature_manifestation",
+        "datetime"
+      ],
+      "conditions": []
+    }
+  ]
+}

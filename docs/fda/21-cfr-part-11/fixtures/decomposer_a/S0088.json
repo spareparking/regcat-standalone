@@ -1,0 +1,17 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "The certification shall be signed with a traditional handwritten signature and submitted in electronic\nor paper form",
+      "atomic_statement": "The certification shall be signed with a traditional handwritten signature and submitted in electronic or paper form.",
+      "modality": "shall",
+      "subject": "persons using electronic signatures",
+      "object": "certification submission",
+      "applicability_tags": [
+        "electronic_signature",
+        "certification",
+        "handwritten_signature"
+      ],
+      "conditions": []
+    }
+  ]
+}

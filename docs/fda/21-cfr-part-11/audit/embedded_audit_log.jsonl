@@ -1,0 +1,1 @@
+{"stage": "embedded_audit", "span_id": "S0029", "citation": "§ 11.1(g)", "primary": "scope_exclusion", "signals": "exclusion_clause(does_not_apply)", "decision": "skipped_no_mock_fixture", "rationale": "no fixture in mock mode; no embedded promotion attempted"}

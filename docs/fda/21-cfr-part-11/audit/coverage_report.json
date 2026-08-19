@@ -1,0 +1,26 @@
+{
+  "canonical_source_sha256": "69bf1669db8758aded8af20593de9e64bae3ae4290b090e8b452833af65b6c5c",
+  "total_bytes": 17510,
+  "covered_bytes": 17510,
+  "coverage_pct": 100.0,
+  "span_count": 105,
+  "spans_by_classification": {
+    "structural": 32,
+    "source_note": 4,
+    "scope_inclusion": 5,
+    "requirement_bearing": 42,
+    "scope_exclusion": 11,
+    "administrative": 1,
+    "cross_reference": 1,
+    "definition": 9
+  },
+  "requirements_extracted": 153,
+  "verbatim_quote_failures": [],
+  "unclassified_spans": [],
+  "unrequirementized_spans": [],
+  "downgrade_pending_spans": [],
+  "reconciler_unresolved": [],
+  "overlap_failures": [],
+  "gap_failures": [],
+  "passed": true
+}

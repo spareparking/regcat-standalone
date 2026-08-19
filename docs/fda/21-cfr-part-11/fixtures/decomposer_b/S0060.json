@@ -1,0 +1,16 @@
+{
+  "requirements": [
+    {
+      "verbatim_quote": "Validation of systems to ensure accuracy, reliability, consistent intended performance, and the ability to\ndiscern invalid or altered records",
+      "atomic_statement": "Validate systems to ensure accuracy, reliability, consistent intended performance, and the ability to discern invalid or altered records.",
+      "modality": "shall",
+      "subject": "persons who use closed systems",
+      "object": "computer system",
+      "applicability_tags": [
+        "closed_system",
+        "validation"
+      ],
+      "conditions": []
+    }
+  ]
+}

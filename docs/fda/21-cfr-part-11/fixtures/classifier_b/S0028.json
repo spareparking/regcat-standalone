@@ -1,0 +1,5 @@
+{
+  "label": "scope_exclusion",
+  "reason": "Excludes records under §§ 1.326 through 1.368.",
+  "confidence": "high"
+}
